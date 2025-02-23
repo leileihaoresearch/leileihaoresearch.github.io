@@ -1,0 +1,26 @@
+DELETE FROM `npi_df_shortened` WHERE `COL 1` = 'npi';
+
+ALTER TABLE `npi_df_shortened` RENAME COLUMN `COL 1` TO `NPI`;
+ALTER TABLE `npi_df_shortened` RENAME COLUMN `COL 2` TO `last_name`;
+ALTER TABLE `npi_df_shortened` RENAME COLUMN `COL 3` TO `first_name`;
+ALTER TABLE `npi_df_shortened` RENAME COLUMN `COL 4` TO `middle_initial`;
+ALTER TABLE `npi_df_shortened` RENAME COLUMN `COL 5` TO `gender`;
+ALTER TABLE `npi_df_shortened` RENAME COLUMN `COL 6` TO `degree`;
+ALTER TABLE `npi_df_shortened` RENAME COLUMN `COL 7` TO `street_address_1`;
+ALTER TABLE `npi_df_shortened` RENAME COLUMN `COL 8` TO `street_address_2`;
+ALTER TABLE `npi_df_shortened` RENAME COLUMN `COL 9` TO `city`;
+ALTER TABLE `npi_df_shortened` RENAME COLUMN `COL 10` TO `state`;
+ALTER TABLE `npi_df_shortened` RENAME COLUMN `COL 11` TO `zip`;
+ALTER TABLE `npi_df_shortened` RENAME COLUMN `COL 12` TO `country`;
+ALTER TABLE `npi_df_shortened` RENAME COLUMN `COL 13` TO `hcpcs_code_1`;
+ALTER TABLE `npi_df_shortened` RENAME COLUMN `COL 14` TO `total_count_1`;
+ALTER TABLE `npi_df_shortened` RENAME COLUMN `COL 15` TO `hcpcs_code_2`;
+ALTER TABLE `npi_df_shortened` RENAME COLUMN `COL 16` TO `total_count_2`;
+ALTER TABLE `npi_df_shortened` RENAME COLUMN `COL 17` TO `hcpcs_code_3`;
+ALTER TABLE `npi_df_shortened` RENAME COLUMN `COL 18` TO `total_count_3`;
+ALTER TABLE `npi_df_shortened` RENAME COLUMN `COL 19` TO `hcpcs_code_4`;
+ALTER TABLE `npi_df_shortened` RENAME COLUMN `COL 20` TO `total_count_4`;
+ALTER TABLE `npi_df_shortened` RENAME COLUMN `COL 21` TO `hcpcs_code_5`;
+ALTER TABLE `npi_df_shortened` RENAME COLUMN `COL 22` TO `total_count_5`;
+ALTER TABLE `npi_df_shortened` RENAME COLUMN `COL 23` TO `latitude`;
+ALTER TABLE `npi_df_shortened` RENAME COLUMN `COL 24` TO `longitude`;

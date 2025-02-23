@@ -1,46 +1,31 @@
 <!DOCTYPE html>
-<html lang="en">
+<html data-bs-theme="light" lang="en">
+
 <head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
     <title>Level HTML Template by Tooplate</title>
-<!--
-
-Tooplate 2095 Level
-
-https://www.tooplate.com/view/2095-level
-
--->
-    <!-- load stylesheets -->
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700">  <!-- Google web font "Open Sans" -->
-    <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.min.css">                <!-- Font Awesome -->
-    <link rel="stylesheet" href="css/bootstrap.min.css">                                      <!-- Bootstrap style -->
-    <link rel="stylesheet" type="text/css" href="slick/slick.css"/>
-    <link rel="stylesheet" type="text/css" href="slick/slick-theme.css"/>
-    <link rel="stylesheet" type="text/css" href="css/datepicker.css"/>
-    <link rel="stylesheet" href="css/tooplate-style.css">                                   <!-- Templatemo style -->
-
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-        <!--[if lt IE 9]>
-          <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-          <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-          <![endif]-->
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700">
+    <link rel="stylesheet" href="assets/css/FontAwesome.css">
+    <link rel="stylesheet" href="assets/css/slick.css">
+    <link rel="stylesheet" href="assets/fonts/font-awesome.min.css">
+    <link rel="stylesheet" href="assets/css/font-awesome-4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="assets/css/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/slick/slick.css">
+    <link rel="stylesheet" href="assets/css/slick/slick-theme.css">
+    <link rel="stylesheet" href="assets/css/css/datepicker.css">
+    <link rel="stylesheet" href="assets/css/css/tooplate-style.css">
 </head>
 
-    <body>
-        <div class="tm-main-content" id="top">
-            <div class="tm-top-bar-bg"></div>
-            <div class="tm-top-bar" id="tm-top-bar">
-                <!-- Top Navbar -->
-                <div class="container">
-                    <div class="row">
-                        
-                        <nav class="navbar navbar-expand-lg narbar-light">
+<body>
+    <div class="tm-main-content" id="top">
+        <div class="tm-top-bar-bg"></div>
+        <div class="tm-top-bar" id="tm-top-bar">
+            <div class="container">
+                <div class="row"><nav class="navbar navbar-expand-lg narbar-light">
                             <a class="navbar-brand mr-auto" href="#">
-                                <img src="img/logo.png" alt="Site logo">
+                                <img src="assets/img/img/logo.png" alt="Site logo">
                                 Surgeon Insight
                             </a>
                             <button type="button" id="nav-toggle" class="navbar-toggler collapsed" data-toggle="collapse" data-target="#mainNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -62,249 +47,230 @@ https://www.tooplate.com/view/2095-level
                                   </li>
                                 </ul>
                             </div>                            
-                        </nav>            
-                    </div>
-                </div>
+                        </nav></div>
             </div>
-            <div class="tm-section tm-bg-img" id="tm-section-1">
-                <div class="tm-bg-white ie-container-width-fix-2">
-                    <div class="container ie-h-align-center-fix">
-                        <div class="row">
-                            <div class="col-xs-12 ml-auto mr-auto ie-container-width-fix">
+        </div>
+        <div class="tm-section tm-bg-img" id="tm-section-1">
+            <div class="tm-bg-white ie-container-width-fix-2">
+                <div class="container ie-h-align-center-fix">
+                    <div class="row" style="height: 162.195px;"><div class="col-xs-12 ml-auto mr-auto ie-container-width-fix">
                                 <form action="index.html" method="get" class="tm-search-form tm-section-pad-2">
                                     <div class="form-row tm-search-form-row">
                                         <div class="form-group tm-form-element tm-form-element-100">
                                             <i class="fa fa-map-marker fa-2x tm-form-element-icon"></i>
-                                            <input name="city" type="text" class="form-control" id="inputCity" placeholder="Search by location...">
+                                            <input name="city" type="text" class="form-control" id="inputZip" placeholder="Search by ZIP code...">
                                         </div>
                                         <div class="form-group tm-form-element tm-form-element-50">
                                             <i class="fa fa-2x fa-bed tm-form-element-icon"></i>
-                                            <input name="check-out" type="text" class="form-control" id="inputCheckOut" placeholder="Search by condition...">
+                                            <input name="check-out" type="text" class="form-control" id="inputProcedure" placeholder="Search by procedure...">
                                         </div>
                                         <div class="form-group tm-form-element tm-form-element-100">
                                             <i class="fa fa-2x fa-user tm-form-element-icon"></i>
-                                            <input name="city" type="text" class="form-control" id="inputCity" placeholder="Search by surgeon...">
+                                            <input name="city" type="text" class="form-control" id="inputSurgeon" placeholder="Search by surgeon...">
                                         </div>
                                     </div>
                                 </form>
                                 <div class="form-group tm-form-element tm-form-element-2">
-                                    <button type="submit" class="btn btn-primary tm-btn-search">Get Insights</button>
+                                    <button type="submit" class="btn btn-primary tm-btn-search"
+                                            id="getInsightsButton">Get Insights</button>
                                 </div>
-                            </div>                        
-                        </div> 
-                        <div class="row">
-                <div class="col-12" style="height: 30px;"></div> <!-- This is the spacer with height of 30px, adjust as needed -->
-            </div>     
+                            </div>
+                        <div class="col" style="margin: 0;margin-top: 49px;display: block;">
+                            <div class="table-responsive" id="zipResult" style="padding: 0px;display: none;background: var(--white);">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th>Column 1</th>
+                                            <th>Column 2</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>Cell 1</td>
+                                            <td>Cell 2</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Cell 3</td>
+                                            <td>Cell 4</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
                     </div>
-                </div>                  
-            </div>
-            
-            <div class="tm-section-2">
-                <div class="container">
                     <div class="row">
-                        <div class="col text-center">
-                            <h2 class="tm-section-title">Find the Right Surgeon, Backed by Data.</h2>
-                            <p class="tm-color-white tm-section-subtitle">We are here to help.</p>
-                            <a href="#" class="tm-color-white tm-btn-white-bordered">Learn More</a>
-                        </div>                
+                        <div class="col d-none" id="surgeonResult"></div>
                     </div>
-                </div>        
+                </div>
             </div>
-            
-            <div class="tm-section tm-position-relative">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="none" class="tm-section-down-arrow">
-                    <polygon fill="#ee5057" points="0,0  100,0  50,60"></polygon>                   
-                </svg> 
-                <div class="container tm-pt-5 tm-pb-4">
-                    <div class="row text-center">
-                        <article class="col-sm-12 col-md-4 col-lg-4 col-xl-4 tm-article">                            
+        </div>
+        <div class="tm-section-2">
+            <div class="container">
+                <div class="row">
+                    <div class="col text-center">
+                        <h2 class="tm-section-title">Find the Right Surgeon, Backed by Data.</h2>
+                        <p class="tm-color-white tm-section-subtitle">We are here to help.</p><a href="#" class="tm-color-white tm-btn-white-bordered">Learn More</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="tm-section tm-position-relative"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="none" class="tm-section-down-arrow">
+                                       
+                </svg>
+            <div class="container tm-pt-5 tm-pb-4">
+                <div class="row text-center"><article class="col-sm-12 col-md-4 col-lg-4 col-xl-4 tm-article">                            
                             <i class="fa tm-fa-6x tm-color-primary tm-margin-b-20"></i>
                             <h3 class="tm-color-primary tm-article-title-1">Transparency</h3>
                             <p>Offering clear, objective data to help patients make informed decisions.</p>
-                        </article>
-                        <article class="col-sm-12 col-md-4 col-lg-4 col-xl-4 tm-article">                            
+                        </article><article class="col-sm-12 col-md-4 col-lg-4 col-xl-4 tm-article">                            
                             <i class="fa tm-fa-6x tm-color-primary tm-margin-b-20"></i>
                             <h3 class="tm-color-primary tm-article-title-1">Trust</h3>
                             <p>Providing reliable, evidence-backed insights into surgeons’ qualifications and experience.</p>
-                        </article>
-                        <article class="col-sm-12 col-md-4 col-lg-4 col-xl-4 tm-article">                           
+                        </article><article class="col-sm-12 col-md-4 col-lg-4 col-xl-4 tm-article">                           
                             <i class="fa tm-fa-6x tm-color-primary tm-margin-b-20"></i>
                             <h3 class="tm-color-primary tm-article-title-1">Empowerment</h3>
                             <p>Giving patients the tools and information they need to take control of their healthcare decisions.</p>                          
-                        </article>
-                    </div>        
-                </div>
+                        </article></div>
             </div>
-            
-            <div class="tm-section tm-section-pad tm-bg-gray" id="tm-section-4">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-12 col-md-12 col-lg-8 col-xl-8">
-                            <div class="tm-article-carousel"> 
-                            <div class="col text-center">
-                                <h2 >Learn about your procedure</h2>
-                            </div>                              
-                                <article class="tm-bg-white mr-2 tm-carousel-item">
-                                    <div class="tm-article-pad">
-                                        <header><h3 class="text-uppercase tm-article-title-2">Craniotomy</h3></header>
-                                        <p>A surgical procedure in which a portion of the skull is removed to access the brain for the treatment of tumors, blood clots, or brain injuries.</p>
-                                        <a href="#" class="text-uppercase btn-primary tm-btn-primary">More Info.</a>
-                                    </div>                                
-                                </article>                    
-                                <article class="tm-bg-white mr-2 tm-carousel-item">
-                                    <div class="tm-article-pad">
-                                        <header><h3 class="text-uppercase tm-article-title-2">Aneurysm Clipping</h3></header>
-                                        <p>A procedure to treat brain aneurysms where a small metal clip is placed around the base of the aneurysm to prevent rupture.</p>
-                                        <a href="#" class="text-uppercase btn-primary tm-btn-primary">More Info.</a>
-                                    </div>                                
-                                </article>
-                                <article class="tm-bg-white mr-2 tm-carousel-item">
-                                    <div class="tm-article-pad">
-                                        <header><h3 class="text-uppercase tm-article-title-2">Spinal Fusion</h3></header>
-                                        <p>A surgery that involves joining two or more vertebrae in the spine to reduce pain or instability due to conditions like degenerative disc disease or spinal fractures.</p>
-                                        <a href="#" class="text-uppercase btn-primary tm-btn-primary">More Info.</a>
-                                    </div>                                
-                                </article>
-                                <article class="tm-bg-white mr-2 tm-carousel-item">
-                                    <div class="tm-article-pad">
-                                        <header><h3 class="text-uppercase tm-article-title-2">Microvascular Decompression (MVD)</h3></header>
-                                        <p>A procedure performed to relieve nerve compression, such as in trigeminal neuralgia, by using a small cushion to separate blood vessels from nerves.</p>
-                                        <a href="#" class="text-uppercase btn-primary tm-btn-primary">More Info.</a>
-                                    </div>                                
-                                </article>                    
-                                <article class="tm-bg-white mr-2 tm-carousel-item">
-                                    <div class="tm-article-pad">
-                                        <header><h3 class="text-uppercase tm-article-title-2">Endoscopic Pituitary Surgery </h3></header>
-                                        <p>A minimally invasive surgery using an endoscope to remove tumors from the pituitary gland through the nasal passage.</p>
-                                        <a href="#" class="text-uppercase btn-primary tm-btn-primary">More Info.</a>
-                                    </div>                                
-                                </article>
-                            </div>    
-                        </div>
-                        
-                        <div class="col-sm-12 col-md-12 col-lg-4 col-xl-4 tm-recommended-container">
-                            <div class="tm-bg-white">
-                                <div class="tm-bg-primary tm-sidebar-pad">
-                                    <h3 class="tm-color-white tm-sidebar-title">Local Hospitals</h3>
-                                    <p class="tm-color-white tm-margin-b-0 tm-font-light">Healthcare centers near you.</p>
-                                </div>
-                                <div class="tm-sidebar-pad-2">
-                                    <a href="#" class="media tm-media tm-recommended-item">
-                                        <div class="media-body tm-media-body tm-bg-gray">
-                                            <h4 class="text-uppercase tm-font-semibold tm-sidebar-item-title">Hospitals of the University of Pennsylvania</h4>
-                                        </div>                                        
-                                    </a>
-                                    <a href="#" class="media tm-media tm-recommended-item">
-                                        <div class="media-body tm-media-body tm-bg-gray">
-                                            <h4 class="text-uppercase tm-font-semibold tm-sidebar-item-title">Thomas Jefferson University Hospitals</h4>
-                                        </div>
-                                    </a>
-                                    <a href="#" class="media tm-media tm-recommended-item">
-                                        <div class="media-body tm-media-body tm-bg-gray">
-                                            <h4 class="text-uppercase tm-font-semibold tm-sidebar-item-title">Pennsylvania Hospital</h4>
-                                        </div>
-                                    </a>
-                                    <a href="#" class="media tm-media tm-recommended-item">
-                                        <div class="media-body tm-media-body tm-bg-gray">
-                                            <h4 class="text-uppercase tm-font-semibold tm-sidebar-item-title">Main Line Health Paoli Hospital</h4>
-                                        </div>
-                                    </a>
-                                </div>
-                            </div>                            
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-
-                <div class="tm-section tm-section-pad tm-bg-img" id="tm-section-5">                                                        
-                    <div class="container ie-h-align-center-fix">
-                        <div class="row tm-flex-align-center">
-                            <div class="col-xs-12 col-md-12 col-lg-3 col-xl-3 tm-media-title-container">
-                                <h2 class="text-uppercase tm-section-title-2">Analysis</h2>
-                                <h3 class="tm-color-primary tm-font-semibold tm-section-subtitle-2">Medicare Data</h3>
-                            </div>
-                            <div class="col-xs-12 col-md-12 col-lg-9 col-xl-9 mt-0 mt-sm-3">
-                                <div class="ml-auto tm-bg-white-shadow tm-pad tm-media-container">
-                                    <article class="media tm-margin-b-20 tm-media-1">
-                                        <img src="img/img-03.jpg" alt="Image">
-                                        <div class="media-body tm-media-body-1 tm-media-body-v-center">
-                                            <h3 class="tm-font-semibold tm-color-primary tm-article-title-3">What is this dataset?</h3>
-                                            <p>The Medicare Physician & Other Practitioners by Provider and Service dataset provides information on use, payments, and submitted charges organized by National Provider Identifier (NPI), Healthcare Common Procedure Coding System (HCPCS) code, and place of service.
-                                            <br><br>
-                                        </div>                                
-                                    </article>
-                                    <article class="media tm-margin-b-20 tm-media-1">
-                                        <img src="img/img-04.jpg" alt="Image">
-                                        <div class="media-body tm-media-body-1 tm-media-body-v-center">
-                                            <h3 class="tm-font-semibold tm-article-title-3">Geographical Analysis</h3>
-                                            <p>Learn how your state compares in medicare procedures.</p>
-                                            <a href="#" class="text-uppercase tm-color-primary tm-font-semibold">Continue reading...</a>
-                                        </div>                                
-                                    </article>
-                                    <article class="media tm-margin-b-20 tm-media-1">
-                                        <img src="img/img-05.jpg" alt="Image">
-                                        <div class="media-body tm-media-body-1 tm-media-body-v-center">
-                                            <h3 class="tm-font-semibold tm-article-title-3">Procedural Volume</h3>
-                                            <p>Learn how your surgeons compares to other surgeons in a specified procedure.</p>
-                                            <a href="#" class="text-uppercase tm-color-primary tm-font-semibold">Continue reading...</a>
-                                        </div>                                
-                                    </article>
-                                </div>                            
-                            </div>
-                        </div>
-                    </div>
-                </div>
-     
-            <div class="tm-section tm-section-pad tm-bg-img tm-position-relative" id="tm-section-6">
-                <div class="container ie-h-align-center-fix">
-                    <div class="row">
-                        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-7">
-                            <div id="google-map"></div>        
-                        </div>
-                        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-5 mt-3 mt-md-0">
-                            <div class="tm-bg-white tm-p-4">
-                                <form action="index.html" method="post" class="contact-form">
-                                    <div class="form-group">
-                                        <input type="text" id="contact_name" name="contact_name" class="form-control" placeholder="Name"  required/>
-                                    </div>
-                                    <div class="form-group">
-                                        <input type="email" id="contact_email" name="contact_email" class="form-control" placeholder="Email"  required/>
-                                    </div>
-                                    <div class="form-group">
-                                        <input type="text" id="contact_subject" name="contact_subject" class="form-control" placeholder="Subject"  required/>
-                                    </div>
-                                    <div class="form-group">
-                                        <textarea id="contact_message" name="contact_message" class="form-control" rows="9" placeholder="Message" required></textarea>
-                                    </div>
-                                    <button type="submit" class="btn btn-primary tm-btn-primary">Send Message Now</button>
-                                </form>
-                            </div>                            
-                        </div>
-                    </div>        
-                </div>
-            </div>
-            
-            <footer class="tm-bg-dark-blue">
-                <div class="container">
-                    <div class="row">
-                        <p class="col-sm-12 text-center tm-font-light tm-color-white p-4 tm-margin-b-0">
-                        Copyright &copy; <span class="tm-current-year">2025</span> Surgeon Insight
-                        
-                        - Design: <a rel="nofollow" href="https://www.tooplate.com" class="tm-color-primary tm-font-normal" target="_parent">Tooplate</a></p>        
-                    </div>
-                </div>                
-            </footer>
         </div>
-        
-        <!-- load JS files -->
-        <script src="js/jquery-1.11.3.min.js"></script>             <!-- jQuery (https://jquery.com/download/) -->
-        <script src="js/popper.min.js"></script>                    <!-- https://popper.js.org/ -->       
-        <script src="js/bootstrap.min.js"></script>                 <!-- https://getbootstrap.com/ -->
-        <script src="js/datepicker.min.js"></script>                <!-- https://github.com/qodesmith/datepicker -->
-        <script src="js/jquery.singlePageNav.min.js"></script>      <!-- Single Page Nav (https://github.com/ChrisWojcik/single-page-nav) -->
-        <script src="slick/slick.min.js"></script>                  <!-- http://kenwheeler.github.io/slick/ -->
-        <script>
+        <div class="tm-section tm-section-pad tm-bg-gray" id="tm-section-4">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 col-md-12 col-lg-8 col-xl-8">
+                        <div class="tm-article-carousel">
+                            <div class="col text-center">
+                                <h2>Learn about your procedure</h2>
+                            </div>
+                            <article class="tm-bg-white mr-2 tm-carousel-item">
+                                <div class="tm-article-pad">
+                                    <header>
+                                        <h3 class="text-uppercase tm-article-title-2">Craniotomy</h3>
+                                    </header>
+                                    <p>A surgical procedure in which a portion of the skull is removed to access the brain for the treatment of tumors, blood clots, or brain injuries.</p><a class="text-uppercase btn-primary tm-btn-primary" href="#">More Info.</a>
+                                </div>
+                            </article>
+                            <article class="tm-bg-white mr-2 tm-carousel-item">
+                                <div class="tm-article-pad">
+                                    <header>
+                                        <h3 class="text-uppercase tm-article-title-2">Aneurysm Clipping</h3>
+                                    </header>
+                                    <p>A procedure to treat brain aneurysms where a small metal clip is placed around the base of the aneurysm to prevent rupture.</p><a class="text-uppercase btn-primary tm-btn-primary" href="#">More Info.</a>
+                                </div>
+                            </article>
+                            <article class="tm-bg-white mr-2 tm-carousel-item">
+                                <div class="tm-article-pad">
+                                    <header>
+                                        <h3 class="text-uppercase tm-article-title-2">Spinal Fusion</h3>
+                                    </header>
+                                    <p>A surgery that involves joining two or more vertebrae in the spine to reduce pain or instability due to conditions like degenerative disc disease or spinal fractures.</p><a class="text-uppercase btn-primary tm-btn-primary" href="#">More Info.</a>
+                                </div>
+                            </article>
+                            <article class="tm-bg-white mr-2 tm-carousel-item">
+                                <div class="tm-article-pad">
+                                    <header>
+                                        <h3 class="text-uppercase tm-article-title-2">Microvascular Decompression (MVD)</h3>
+                                    </header>
+                                    <p>A procedure performed to relieve nerve compression, such as in trigeminal neuralgia, by using a small cushion to separate blood vessels from nerves.</p><a class="text-uppercase btn-primary tm-btn-primary" href="#">More Info.</a>
+                                </div>
+                            </article>
+                            <article class="tm-bg-white mr-2 tm-carousel-item">
+                                <div class="tm-article-pad">
+                                    <header>
+                                        <h3 class="text-uppercase tm-article-title-2">Endoscopic Pituitary Surgery </h3>
+                                    </header>
+                                    <p>A minimally invasive surgery using an endoscope to remove tumors from the pituitary gland through the nasal passage.</p><a class="text-uppercase btn-primary tm-btn-primary" href="#">More Info.</a>
+                                </div>
+                            </article>
+                        </div>
+                    </div>
+                    <div class="col-sm-12 col-md-12 col-lg-4 col-xl-4 tm-recommended-container">
+                        <div class="tm-bg-white">
+                            <div class="tm-bg-primary tm-sidebar-pad">
+                                <h3 class="tm-color-white tm-sidebar-title">Local Hospitals</h3>
+                                <p class="tm-color-white tm-margin-b-0 tm-font-light">Healthcare centers near you.</p>
+                            </div>
+                            <div class="tm-sidebar-pad-2"><a href="#" class="media tm-media tm-recommended-item">
+                                    <div class="media-body tm-media-body tm-bg-gray">
+                                        <h4 class="text-uppercase tm-font-semibold tm-sidebar-item-title">Hospitals of the University of Pennsylvania</h4>
+                                    </div>
+                                </a><a href="#" class="media tm-media tm-recommended-item">
+                                    <div class="media-body tm-media-body tm-bg-gray">
+                                        <h4 class="text-uppercase tm-font-semibold tm-sidebar-item-title">Thomas Jefferson University Hospitals</h4>
+                                    </div>
+                                </a><a href="#" class="media tm-media tm-recommended-item">
+                                    <div class="media-body tm-media-body tm-bg-gray">
+                                        <h4 class="text-uppercase tm-font-semibold tm-sidebar-item-title">Pennsylvania Hospital</h4>
+                                    </div>
+                                </a><a href="#" class="media tm-media tm-recommended-item">
+                                    <div class="media-body tm-media-body tm-bg-gray">
+                                        <h4 class="text-uppercase tm-font-semibold tm-sidebar-item-title">Main Line Health Paoli Hospital</h4>
+                                    </div>
+                                </a></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="tm-section tm-section-pad tm-bg-img" id="tm-section-5">
+            <div class="container ie-h-align-center-fix">
+                <div class="row tm-flex-align-center">
+                    <div class="col-md-12 col-lg-3 col-xl-3 col-xs-12 tm-media-title-container">
+                        <h2 class="text-uppercase tm-section-title-2">Analysis</h2>
+                        <h3 class="tm-color-primary tm-font-semibold tm-section-subtitle-2">Medicare Data</h3>
+                    </div>
+                    <div class="col-md-12 col-lg-9 col-xl-9 col-xs-12 mt-0 mt-sm-3">
+                        <div class="ml-auto tm-bg-white-shadow tm-pad tm-media-container">
+                            <article class="media tm-margin-b-20 tm-media-1"><img src="assets/img/img/img-03.jpg" alt="Image">
+                                <div class="media-body tm-media-body-1 tm-media-body-v-center">
+                                    <h3 class="tm-font-semibold tm-color-primary tm-article-title-3">What is this dataset?</h3>
+                                    <p>The Medicare Physician &amp; Other Practitioners by Provider and Service dataset provides information on use, payments, and submitted charges organized by National Provider Identifier (NPI), Healthcare Common Procedure Coding System (HCPCS) code, and place of service. <br><br></p>
+                                </div>
+                            </article>
+                            <article class="media tm-margin-b-20 tm-media-1"><img src="assets/img/img/img-04.jpg" alt="Image">
+                                <div class="media-body tm-media-body-1 tm-media-body-v-center">
+                                    <h3 class="tm-font-semibold tm-article-title-3">Geographical Analysis</h3>
+                                    <p>Learn how your state compares in medicare procedures.</p><a class="text-uppercase tm-color-primary tm-font-semibold" href="#">Continue reading...</a>
+                                </div>
+                            </article>
+                            <article class="media tm-margin-b-20 tm-media-1"><img src="assets/img/img/img-05.jpg" alt="Image">
+                                <div class="media-body tm-media-body-1 tm-media-body-v-center">
+                                    <h3 class="tm-font-semibold tm-article-title-3">Procedural Volume</h3>
+                                    <p>Learn how your surgeons compares to other surgeons in a specified procedure.</p><a class="text-uppercase tm-color-primary tm-font-semibold" href="#">Continue reading...</a>
+                                </div>
+                            </article>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="tm-section tm-section-pad tm-bg-img tm-position-relative" id="tm-section-6">
+            <div class="container ie-h-align-center-fix">
+                <div class="row">
+                    <div class="col-sm-12 col-md-6 col-lg-6 col-xl-7 col-xs-12">
+                        <div id="google-map"></div>
+                    </div>
+                    <div class="col-sm-12 col-md-6 col-lg-6 col-xl-5 col-xs-12 mt-3 mt-md-0">
+                        <div class="tm-bg-white tm-p-4">
+                            <form action="index.html" method="post" class="contact-form">
+                                <div class="form-group"><input class="form-control form-control" type="text" id="contact_name" name="contact_name" placeholder="Name" required=""></div>
+                                <div class="form-group"><input class="form-control form-control" type="email" id="contact_email" name="contact_email" placeholder="Email" required=""></div>
+                                <div class="form-group"><input class="form-control form-control" type="text" id="contact_subject" name="contact_subject" placeholder="Subject" required=""></div>
+                                <div class="form-group"><textarea class="form-control form-control" id="contact_message" name="contact_message" placeholder="Message" required="" rows="9"></textarea></div><button class="btn btn-primary tm-btn-primary" type="submit">Send Message Now</button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <footer class="tm-bg-dark-blue">
+            <div class="container">
+                <div class="row"><p class="col-sm-12 text-center tm-font-light tm-color-white p-4 tm-margin-b-0">
+                        Copyright © <span class="tm-current-year">2025</span> Surgeon Insight
+                        
+                        - Design: <a rel="nofollow" href="https://www.tooplate.com" class="tm-color-primary tm-font-normal" target="_parent">Tooplate</a></p></div>
+            </div>
+        </footer>
+    </div><script>
 
             /* Google map
             ------------------------------------------------*/
@@ -440,7 +406,16 @@ https://www.tooplate.com/view/2095-level
                 $('.tm-current-year').text(new Date().getFullYear());                           
             });
 
-        </script>             
-
+        </script>
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="assets/js/js/jquery-1.11.3.min.js"></script>
+    <script src="assets/js/js/popper.min.js"></script>
+    <script src="assets/js/js/bootstrap.min.js"></script>
+    <script src="assets/js/js/datepicker.min.js"></script>
+    <script src="assets/js/js/jquery.singlePageNav.min.js"></script>
+    <script src="assets/js/slick/slick.min.js"></script>
+    <script src="assets/js/js/find_by_zip.js"></script>
+    <script src="assets/js/js/find_surgeon.js"></script>
 </body>
+
 </html>

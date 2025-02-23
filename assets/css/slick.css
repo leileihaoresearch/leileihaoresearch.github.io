@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'slick';
+	src: url(../../assets/fonts/slick-a655098b1f89624f09b6cef848d89970.eot) format('embedded-opentype'),
+	url(../../assets/fonts/slick-a655098b1f89624f09b6cef848d89970.eot) format('embedded-opentype'),
+	url(../../assets/fonts/slick-7ed50d3cf7f09621db63117730a10321.woff) format('woff'),
+	url(../../assets/fonts/slick-b4e78d084997a2b76fe5a580db2b71be.ttf) format('truetype'),
+	url(../../assets/fonts/slick-12074e668bc1e820ebe9b09354e1f52c.svg) format('svg');
+	font-weight: normal;
+	font-style: normal;
+	font-display: auto;
+}
