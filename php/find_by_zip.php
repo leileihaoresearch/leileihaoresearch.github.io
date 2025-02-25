@@ -17,9 +17,9 @@ $query = "SELECT *, ( 3959  * acos( cos( radians(" . $lat_long['lat'] . ") )
         + sin( radians(" . $lat_long['lat'] . ") ) 
         * sin( radians( latitude ) ) ) ) 
     AS distance
-    FROM npi_df_shortened
+    FROM npi_df_all_primary_long_lat
     ORDER BY distance ASC
-    LIMIT 25;";
+    LIMIT 28;";
 
 $result = $conn->query($query);
 

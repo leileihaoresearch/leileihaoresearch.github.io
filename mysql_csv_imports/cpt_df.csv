@@ -1,0 +1,1195 @@
+hcpcs_code,hcpcs_desc,tot_services,num_npi,num_per_npi
+99213,"Established patient office or other outpatient visit, typically 15 minutes",3306793.0,5207,635.07
+99214,"Established patient office or other outpatient, visit typically 25 minutes",2127568.0,4834,440.13
+99204,"New patient office or other outpatient visit, typically 45 minutes",1429215.1,4593,311.17
+99203,"New patient office or other outpatient visit, typically 30 minutes",1257750.0,4199,299.54
+99212,"Established patient office or other outpatient visit, typically 10 minutes",881979.2,3094,285.06
+99232,"Subsequent hospital inpatient care, typically 25 minutes per day",723536.0,3088,234.31
+A9585,"Injection, gadobutrol, 0. 1 ml",604303.8,55,10987.34
+99231,"Subsequent hospital inpatient care, typically 15 minutes per day",588497.0,2646,222.41
+J0585,"Injection, onabotulinumtoxina, 1 unit",586645.0,9,65182.78
+63048,Partial removal of spine bone with release of spinal cord or nerves,550114.0,2639,208.46
+22614,"Fusion of spine bones, posterior or posterolateral approach, additional interspace",520018.0,1924,270.28
+63047,Partial removal of middle spine bone with release of spinal cord or nerves,449656.0,2985,150.64
+99223,"Initial hospital inpatient care, typically 70 minutes per day",441597.0,2674,165.14
+99222,"Initial hospital inpatient care, typically 50 minutes per day",404089.0,2978,135.69
+99215,"Established patient office or other outpatient, visit typically 40 minutes",394072.0,2307,170.82
+99205,"New patient office or other outpatient visit, typically 60 minutes",366605.0,2275,161.15
+22853,Insertion of device into intervertebral disc space of spine and fusion of vertebrae,353962.0,2137,165.64
+99221,"Initial hospital inpatient care, typically 30 minutes per day",317970.0,2823,112.64
+J2274,"Injection, morphine sulfate, preservative-free for epidural or intrathecal use, 10 mg",285812.0,3,95270.67
+Q9967,"Low osmolar contrast material, 300-399 mg/ml iodine concentration, per ml",274764.0,33,8326.18
+22851,Insertion of spinal instrumentation for spinal stabilization,245039.0,1958,125.15
+99233,"Subsequent hospital inpatient care, typically 35 minutes per day",239896.0,1419,169.06
+72100,"X-ray of lower and sacral spine, 2 or 3 views",189348.0,780,242.75
+22842,"Insertion of posterior spinal instrumentation for spinal stabilization, 3 to 6 vertebral segments",185849.0,2030,91.55
+J1170,"Injection, hydromorphone, up to 4 mg",174010.0,3,58003.33
+99202,"New patient office or other outpatient visit, typically 20 minutes",173782.0,1394,124.66
+72110,"X-ray of lower and sacral spine, minimum of 4 views",148165.0,490,302.38
+22551,"Fusion of spine bones with removal of disc at upper spinal column, anterior approach",135866.0,1757,77.33
+22633,"Fusion of lower spine bones with removal of disc, combined posterior, posterolateral or interbody approach",127728.0,1292,98.86
+22840,"Insertion of spinal instrumentation at base of neck for stabilization, 1 interspace",113723.0,1479,76.89
+99291,"Critical care delivery critically ill or injured patient, first 30-74 minutes",111913.0,463,241.71
+22612,"Fusion of lower spine bones, posterior or posterolateral approach",109892.0,1309,83.95
+A9579,"Injection, gadolinium-based magnetic resonance contrast agent, not otherwise specified (nos), per ml",107780.5,92,1171.53
+97110,"Therapeutic exercise to develop strength, endurance, range of motion, and flexibility, each 15 minutes",104018.0,103,1009.88
+22845,"Insertion of anterior spinal instrumentation for spinal stabilization, 2 to 3 vertebral segments",102172.0,1535,66.56
+72040,"X-ray of spine, 3 views or less",98902.0,667,148.28
+72148,MRI scan of lower spinal canal,88899.0,358,248.32
+J3301,"Injection, triamcinolone  acetonide, not otherwise specified, 10 mg",81911.4,56,1462.7
+36224,Insertion of catheter into neck artery for diagnosis or treatment,79332.0,456,173.97
+22552,"Fusion of spine bones with removal of disc at upper spinal column, anterior approach",79019.0,955,82.74
+36226,Insertion of catheter into chest artery for diagnosis or treatment,71044.0,433,164.07
+61783,Computer-assisted spinal procedure,68848.0,940,73.24
+J1100,"Injection, dexamethasone sodium phosphate, 1mg",68427.0,41,1668.95
+63030,Partial removal of bone with release of spinal cord or spinal nerves of 1 interspace in lower spine,66984.0,1109,60.4
+72050,"X-ray of upper spine, 4 or 5 views",65393.0,392,166.82
+J2275,"Injection, morphine sulfate (preservative-free sterile solution), per 10 mg",64313.0,4,16078.25
+61781,Computer-assisted procedure inside the brain,61200.0,817,74.91
+20931,Donor bone graft for spine surgery,58894.0,840,70.11
+A9575,"Injection, gadoterate meglumine, 0.1 ml",48610.0,11,4419.09
+J1040,"Injection, methylprednisolone acetate, 80 mg",47762.0,81,589.65
+69990,Use of operating microscope,44954.0,683,65.82
+A9577,"Injection, gadobenate dimeglumine (multihance), per ml",44784.5,25,1791.38
+99211,"Established patient office or other outpatient visit, typically 5 minutes",43432.0,509,85.33
+Q9966,"Low osmolar contrast material, 200-299 mg/ml iodine concentration, per ml",42492.0,17,2499.53
+72141,MRI scan of upper spinal canal,42013.0,288,145.88
+J0588,"Injection, incobotulinumtoxin a, 1 unit",40880.0,1,40880.0
+63685,Insertion of spinal neurostimulator pulse generator or receiver,40856.0,525,77.82
+62311,Injection of diagnostic or therapeutic substances into upper or middle spine,39113.0,159,245.99
+64493,Injection of lower spine facet joint using imaging guidance,37673.0,129,292.04
+97140,"Manual (physical) therapy techniques to 1 or more regions, each 15 minutes",36803.3,56,657.2
+61800,Application of stereotactic headframe for stereotactic radiosurgery,36046.0,281,128.28
+62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,33413.0,119,280.78
+61796,Stereotactic treatment of brain growth,33138.0,348,95.22
+64483,Injection of lower or sacral spine nerve root using imaging guidance,32954.0,134,245.93
+J0702,"Injection, betamethasone acetate 3mg and betamethasone sodium phosphate 3mg",32154.0,27,1190.89
+61797,Stereotactic treatment of brain growth,32136.0,170,189.04
+36223,Insertion of catheter into neck artery for diagnosis or treatment,31591.0,295,107.09
+77003,Fluoroscopic guidance for spine or spinal canal injection,31541.0,201,156.92
+22634,"Fusion of lower spine bones with removal of disc, combined posterior, posterolateral or interbody approach, additional interspace and segment",31024.0,390,79.55
+22558,"Fusion of spine bones with removal of disc at lower spinal column, anterior approach",30677.0,437,70.2
+64494,Injection of lower spine facet joint using imaging guidance,30090.0,100,300.9
+75898,Imaging of blood vessel,29695.0,249,119.26
+99152,"Moderate sedation services by physician also performing a procedure, patient 5 years of age or older, first 15 minutes",29376.0,245,119.9
+99442,"Telephone medical discussion with physician, 11-20 minutes",28740.0,588,48.88
+95004,Test for allergy using allergenic extract,27876.0,2,13938.0
+G0453,"Continuous intraoperative neurophysiology monitoring, from outside the operating room (remote or nearby), per patient, (attention directed exclusively to one patient) each 15 minutes (list in addition to primary procedure)",27868.5,12,2322.38
+J0475,"Injection, baclofen, 10 mg",27763.0,21,1322.05
+J3490,Unclassified drugs,27670.0,17,1627.65
+83925,Opiates (drug) measurement,27338.0,5,5467.6
+95886,Needle measurement and recording of electrical activity of muscles of arm or leg and spinal muscles complete study,25834.0,89,290.27
+61885,Insertion or replacement of brain neurostimulator generator or receiver,25478.0,263,96.87
+J1030,"Injection, methylprednisolone acetate, 40 mg",25166.0,69,364.72
+76000,"Imaging guidance for procedure, up to 1 hour",24069.0,220,109.4
+76377,3D radiographic procedure with computerized image postprocessing,23926.0,249,96.09
+80307,Testing for presence of drug,23295.0,27,862.78
+J3010,"Injection, fentanyl citrate, 0. 1 mg",23091.5,12,1924.29
+22600,"Fusion of upper spine bones, posterior or posterolateral approach",23010.0,582,39.54
+70450,CT scan head or brain,22565.0,152,148.45
+63655,Implantation of spinal neurostimulator electrodes,22485.0,379,59.33
+J2704,"Injection, propofol, 10 mg",22478.0,6,3746.33
+72114,X-ray lower and sacral spine including bending views minimum 6 views,22272.0,130,171.32
+61886,Insertion or replacement of brain neurostimulator generator or receiver,22268.0,210,106.04
+72120,X-ray lower and sacral spine including bending views 2 or 3 views,21742.0,143,152.04
+36227,Insertion of catheter into neck artery for diagnosis or treatment,21578.0,256,84.29
+Q9974,"Injection, Morphine Sulfate, Preservative-Free For Epidural Or Intrathecal Use, 10 mg",21547.0,2,10773.5
+20937,Harvest of bone fragments for spine surgery graft,21475.0,239,89.85
+22630,"Fusion of lower spine bones with removal of disc, posterior approach",21361.0,309,69.13
+20939,Harvest of bone marrow for spine surgery graft,21130.0,280,75.46
+76937,Ultrasound guidance for accessing into blood vessel,20734.0,193,107.43
+38220,Bone marrow aspiration,20602.0,293,70.31
+22585,"Fusion of spine bones with removal of disc at lower spinal column, anterior approach, additional interspace",20540.0,280,73.36
+99441,"Telephone medical discussion with physician, 5-10 minutes",20303.0,417,48.69
+99201,"New patient office or other outpatient visit, typically 10 minutes",19776.0,230,85.98
+63650,Implantation of spinal neurostimulator electrodes,19671.0,123,159.93
+75894,Radiological supervision and interpretation of removal of clot procedure,19524.0,253,77.17
+61510,Removal of brain tumor,19310.0,310,62.29
+J7320,"Hyaluronan or derivitive, genvisc 850, for intra-articular injection, 1 mg",18853.0,2,9426.5
+G6056,"Opiate(s), drug and metabolites, each procedure",18819.0,2,9409.5
+72082,"X-ray of spine, 2 or 3 views",18710.0,115,162.7
+22216,Incision of spine bone to correct spinal deformity of spinal column,18625.0,122,152.66
+61624,Occlusion of abnormal artery,18468.0,250,73.87
+G0180,"Physician certification for medicare-covered home health  services under a home health plan of care (patient not present), including contacts with home health agency and review of reports of patient status required by physicians to affirm the initial imple",18372.0,221,83.13
+72131,CT scan of lower spine,18367.0,128,143.49
+64495,Injection of lower spine facet joint using imaging guidance,18206.0,52,350.12
+95972,Electronic analysis and programming of implanted complex spinal cord neurostimulator generator system during or subsequent to surgery first hour,17962.0,164,109.52
+63056,Release of lower spinal cord or nerves,17935.0,207,86.64
+70553,MRI scan of brain before and after contrast,17572.0,135,130.16
+72070,"X-ray of middle spine, 3 views",17356.0,214,81.1
+62252,Reprogramming of programmable brain and spinal fluid shunt,17045.0,118,144.45
+27096,"Injection procedure into sacroiliac joint for imaging, anesthetic, or drug administration using imaging guidance",16747.0,115,145.63
+72158,MRI scan of lower spinal canal before and after contrast,16434.0,149,110.3
+G0431,"Drug screen, qualitative; multiple drug classes by high complexity test method (e. g. , immunoassay, enzyme assay), per patient encounter",16292.0,19,857.47
+J1885,"Injection, ketorolac tromethamine, per 15 mg",16220.0,39,415.9
+J3300,"Injection, triamcinolone acetonide, preservative free, 1 mg",16200.0,1,16200.0
+83789,Mass spectrometry (laboratory testing method),15764.0,1,15764.0
+61798,Stereotactic treatment of brain growth,15449.0,173,89.3
+22514,Injection of bone cement into body of lower spine bone accessed through the skin using imaging guidance,14876.0,266,55.92
+36415,Insertion of needle into vein for collection of blood sample,14468.0,124,116.68
+99443,"Telephone medical discussion with physician, 21-30 minutes",14445.0,290,49.81
+64484,Injection of lower or sacral spine nerve root using imaging guidance,14280.0,54,264.44
+63042,Re-exploration of spine repair with release of spinal cord or nerves,14186.0,253,56.07
+72291,Imaging for repair or reconstruction of vertebra using fluoroscopic guidance,14003.0,286,48.96
+99309,"Subsequent nursing facility visit, typically 25 minutes per day",13730.0,10,1373.0
+64636,Injection of each additional lower or sacral spinal facet joint using imaging guidance,13671.0,49,279.0
+62284,Injection of dye for X-ray imaging of spinal canal,13267.0,84,157.94
+63045,Partial removal of upper spine bone with release of spinal cord or nerves,13156.0,372,35.37
+72052,"X-ray of upper spine, 6 or more views",13122.0,96,136.69
+97530,"Therapeutic activities to improve function, with one-on-one contact between patient and provider, each 15 minutes",12886.0,32,402.69
+22513,Injection of bone cement into body of middle spine bone accessed through the skin using imaging guidance,12759.0,223,57.22
+22214,Incision of spine to correct deformity at lower spinal column,12667.0,180,70.37
+99284,"Emergency department visit, problem of high severity",12580.0,187,67.27
+Q9965,"Low osmolar contrast material, 100-199 mg/ml iodine concentration, per ml",12456.0,8,1557.0
+61645,"Removal of blood clot and injection to dissolve blood clot from head artery using fluoroscopic guidance, accessed through skin",12361.0,269,45.95
+11042,Removal of skin and tissue first 20 sq cm or less,12322.0,10,1232.2
+63035,Partial removal of bone with release of spinal cord or spinal nerves each additional interspace in upper or lower spine,12088.0,157,76.99
+93880,Ultrasound scanning of head and neck vessel blood flow (outside the brain),11970.0,25,478.8
+62369,Electronic analysis reprogramming and refill of spinal canal drug infusion pump,11969.0,34,352.03
+20552,Injection of trigger points in 1 or 2 muscles,11952.0,46,259.83
+99308,"Subsequent nursing facility visit, typically 15 minutes per day",11787.0,10,1178.7
+22843,"Insertion of posterior spinal instrumentation for spinal stabilization, 7 to 12 vertebral segments",11762.0,211,55.74
+61867,Implantation of brain neurostimulator electrodes microelectrode recording,11740.0,146,80.41
+62370,Electronic analysis reprogramming and refill of spinal canal drug infusion pump by physician,11682.0,32,365.06
+22830,Exploration of spinal fusion,11578.0,204,56.75
+80154,Benzodiazepines level,11357.0,5,2271.4
+95978,Electronic analysis and programming of implanted complex deep brain neurostimulator generator system,11286.0,86,131.23
+72020,"X-ray of spine, 1 view",11223.0,90,124.7
+99238,"Hospital discharge day management, 30 minutes or less",11132.0,207,53.78
+83986,Body fluid pH level,10525.0,8,1315.62
+81003,Automated urinalysis test,10343.0,9,1149.22
+64490,Injection of upper or middle spine facet joint using imaging guidance,10159.0,61,166.54
+84311,Chemical analysis using spectrophotometry (light),10097.0,5,2019.4
+82570,Creatinine level to test for kidney function or muscle injury,9915.0,8,1239.38
+63082,Partial or complete removal of upper spine bone with release of spinal cord or nerves,9898.0,89,111.21
+62362,Implantation or replacement of programmable spinal canal drug infusion pump,9775.0,170,57.5
+22846,"Insertion of anterior spinal instrumentation for spinal stabilization, 4 to 7 vertebral segments",9767.0,254,38.45
+63057,Release of lower spinal cord or nerves,9514.0,68,139.91
+99292,"Critical care delivery critically ill or injured patient, each additional 30 minutes",9030.0,57,158.42
+70551,MRI scan brain,8997.0,73,123.25
+63052,Partial removal of bone of single segment of spine in lower back with release of spinal cord and/or nerves during fusion of spine in lower back,8932.0,437,20.44
+64721,Release and relocation of median nerve of hand,8882.0,188,47.24
+96127,Brief emotional or behavioral assessment,8822.0,10,882.2
+G0283,"Electrical stimulation (unattended), to one or more areas for indication(s) other than wound care, as part of a therapy plan of care",8766.0,32,273.94
+62368,Electronic analysis and reprogramming of spinal canal drug infusion pump,8707.0,27,322.48
+72146,MRI scan of middle spinal canal,8614.0,109,79.03
+64491,Injection of upper or middle spine facet joint using imaging guidance,8554.0,46,185.96
+99144,"Moderate sedation services by physician also performing a procedure, patient 5 years of age or older, first 30 minutes",8547.0,39,219.15
+82145,Amphetamine or methamphetamine level,8528.0,5,1705.6
+99283,"Emergency department visit, moderately severe problem",8459.0,161,52.54
+62322,Injection of substance into spinal canal of lower back or sacrum,8381.0,22,380.95
+96372,"Injection into tissue or muscle for therapy, diagnosis, or prevention",8352.0,60,139.2
+64635,Injection of lower or sacral spinal facet joint nerve using imaging guidance,8327.0,55,151.4
+62223,Creation of brain fluid drainage shunt,8188.0,162,50.54
+77002,Fluoroscopic imaging guidance for insertion of device,8098.0,57,142.07
+20610,Aspiration or injection of large joint or joint capsule,8070.0,49,164.69
+76942,Ultrasonic guidance imaging supervision and interpretation for insertion of needle,8056.0,20,402.8
+80305,Testing for presence of drug,8030.0,33,243.33
+36225,Insertion of catheter into chest artery for diagnosis or treatment,7976.0,123,64.85
+63081,Partial or complete removal of upper spine bone with release of spinal cord or nerves,7852.0,148,53.05
+22848,Insertion of instrumentation to pelvic bones,7793.0,117,66.61
+95816,"Measurement and recording of brain wave (EEG) activity, awake and drowsy",7541.0,38,198.45
+95970,Electronic analysis of implanted simple or complex brain spinal cord or peripheral neurostimulator generator system,7453.0,66,112.92
+77300,Calculation of radiation therapy dose,7377.0,3,2459.0
+72125,CT scan of upper spine,7028.0,85,82.68
+G0479,"Drug tests(s), presumptive, any number of drug classes; any number of devices or procedures by instrumented chemistry analyzers utilizing immunoassay, enzyme assay, TOF, MALDI, LDTD, DESI, DART, GHPC, GC mass spectrometry), includes sample validation when",7019.0,10,701.9
+J2250,"Injection, midazolam hydrochloride, per 1 mg",7009.2,13,539.17
+61312,Aspiration of blood accumulation in brain,6952.0,233,29.84
+22554,"Fusion of spine bones with removal of disc at upper spinal column, anterior approach",6935.0,144,48.16
+95938,Insertion of needles and skin electrodes for measurement and recording of stimulated sites in the arms and legs,6882.0,18,382.33
+99490,Chronic care management services at least 20 minutes per calendar month,6849.0,6,1141.5
+93886,Ultrasound scanning of head and neck vessel blood flow (inside the brain),6832.0,12,569.33
+99285,"Emergency department visit, problem with significant threat to life or function",6821.0,93,73.34
+82565,Blood creatinine level,6774.0,54,125.44
+22854,Insertion of device into gap left by removal of part of vertebra and fusion of vertebrae,6632.0,75,88.43
+72170,"X-ray of pelvis, 1 or 2 views",6461.0,39,165.67
+99350,"Established patient home visit, typically 60 minutes",6258.0,3,2086.0
+95983,"Electronic analysis of implanted brain, spinal cord or peripheral stimulation device with brain stimulator programming, first 15 minutes face-to-face time with qualified health care professional",6173.0,57,108.3
+63044,Re-exploration of spine repair with release of spinal cord or nerves,6158.0,57,108.04
+82649,Dihydromorphinone (drug) level,6052.0,5,1210.4
+82646,Dihydrocodeinone (drug) measurement,6051.0,5,1210.2
+82520,Cocaine (drug) level,6050.0,5,1210.0
+76376,3D radiographic procedure,6042.0,32,188.81
+63012,Partial removal of bone with release of spinal cord or spinal nerves,6016.0,89,67.6
+95911,"Nerve transmission studies, 9-10 studies",6016.0,44,136.73
+62310,Injection of diagnostic or therapeutic substances into lower spine,5958.0,43,138.56
+63267,Removal of lower spine bone and growth,5805.0,158,36.74
+22515,Injection of bone cement into body of middle or lower spine bone accessed through the skin using imaging guidance,5587.0,90,62.08
+97112,"Therapeutic procedure to re-educate brain-to-nerve-to-muscle function, each 15 minutes",5502.0,23,239.22
+62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,5490.0,37,148.38
+64492,Injection of upper or middle spine facet joint using imaging guidance,5436.0,24,226.5
+95885,Needle measurement and recording of electrical activity of muscles of arm or leg and spinal muscles limited study,5127.0,23,222.91
+J0897,"Injection, denosumab, 1 mg",5118.0,3,1706.0
+22524,Injection of bone cement into cavity of body of lower spine bone,4970.0,180,27.61
+99354,Prolonged office or other outpatient service first hour,4910.0,30,163.67
+G6042,Amphetamine or methamphetamine,4887.0,2,2443.5
+G6053,Methadone,4887.0,2,2443.5
+G6052,Meprobamate,4887.0,2,2443.5
+G6031,Benzodiazepines,4886.0,2,2443.0
+G6045,Dihydrocodeinone,4855.0,2,2427.5
+G6044,Cocaine or metabolite,4854.0,2,2427.0
+G6046,Dihydromorphinone,4853.0,2,2426.5
+G6037,Nortriptyline,4822.0,1,4822.0
+G6032,Desipramine,4821.0,1,4821.0
+95819,"Measurement and recording of brain wave (EEG) activity, awake and asleep",4810.0,30,160.33
+93000,Routine EKG using at least 12 leads including interpretation and report,4807.0,17,282.76
+93892,Ultrasound scanning for blood clot detection in head and neck vessel blood flow (inside the brain),4662.0,8,582.75
+J0587,"Injection, rimabotulinumtoxinb, 100 units",4551.0,2,2275.5
+72080,"X-ray of middle and lower spine, 2 views",4514.0,62,72.81
+20926,Tissue graft,4443.0,63,70.52
+76001,"Imaging guidance for procedure, more than 1 hour",4432.0,40,110.8
+97035,"Application of ultrasound to 1 or more areas, each 15 minutes",4384.0,8,548.0
+97001,Physical therapy evaluation,4299.0,40,107.48
+22610,"Fusion of middle spine bones, posterior or posterolateral approach",4292.0,122,35.18
+62350,"Implantation, revision, or repositioning of spinal canal medication catheter",4241.0,81,52.36
+11043,Removal of skin and/or muscle first 20 sq cm or less,4184.0,6,697.33
+22523,Injection of cement into body of middle spine bone,4181.0,145,28.83
+L8680,"Implantable neurostimulator electrode, each",4106.0,13,315.85
+99406,"Smoking and tobacco use intermediate counseling, greater than 3 minutes up to 10 minutes",4095.0,79,51.84
+G0434,"Drug screen, other than chromatographic; any number of drug classes, by clia waived test or moderate complexity test, per patient encounter",4091.0,33,123.97
+20553,Injection of trigger points in 3 or more muscles,4069.0,23,176.91
+97161,"Evaluation of physical therapy, typically 20 minutes",4068.0,35,116.23
+99307,"Subsequent nursing facility visit, typically 10 minutes per day",3962.0,6,660.33
+71020,"X-ray of chest, 2 views, front and side",3906.0,40,97.65
+92543,Assessment and recording of balance system during irrigation of both ears,3864.0,9,429.33
+95861,Needle measurement and recording of electrical activity of muscles of arms or legs,3807.0,17,223.94
+99497,Advance care planning by the physician or other qualified health care professional,3790.0,6,631.67
+97032,"Application of electrical stimulation to 1 or more areas, each 15 minutes",3707.0,7,529.57
+75710,Imaging of artery of arm or leg,3682.0,34,108.29
+72275,Radiological supervision and interpretation X-ray of covering of spinal cord,3661.0,21,174.33
+72084,"X-ray of spine, minimum of 6 views",3640.0,18,202.22
+99183,Management and supervision of oxygen chamber therapy per session,3636.0,3,1212.0
+22310,Treatment of broken spine bone,3574.0,61,58.59
+J3111,"Injection, romosozumab-aqqg, 1 mg",3570.0,1,3570.0
+22632,"Fusion of lower spine bones with removal of disc, posterior approach, additional interspace",3556.0,58,61.31
+95951,Monitoring and localization of seizure activity over 24-hour period using 16-channel electroencephalograph (EEG),3472.0,11,315.64
+71046,"X-ray of chest, 2 views",3445.0,41,84.02
+95971,Electronic analysis and programming of implanted simple spinal cord neurostimulator generator system during or subsequent to surgery,3432.0,53,64.75
+93970,Ultrasound scan of veins of arms or legs including assessment of compression and functional maneuvers,3423.0,8,427.88
+J7321,"Hyaluronan or derivative, hyalgan or supartz, for intra-articular injection, per dose",3422.0,4,855.5
+76998,Ultrasonic guidance during surgery,3394.0,62,54.74
+36228,Insertion of catheter into neck artery for diagnosis or treatment,3370.0,73,46.16
+83805,Meprobamate (sedative) level,3327.0,2,1663.5
+84520,Urea nitrogen level to assess kidney function,3308.0,20,165.4
+83840,Methadone level,3276.0,2,1638.0
+97597,"Removal of tissue from wound, 20.0 sq cm or less",3256.0,5,651.2
+95984,"Electronic analysis of implanted brain, spinal cord or peripheral stimulation device with brain stimulator programming, additional 15 minutes face-to-face time with qualified health care professional",3243.0,21,154.43
+73721,MRI scan of leg joint,3234.0,26,124.38
+61868,Implantation of brain neurostimulator electrodes with microelectrode recording,3213.0,57,56.37
+80182,Nortriptyline level,3173.0,1,3173.0
+80160,Desipramine level,3173.0,1,3173.0
+63688,Removal or revision of neurostimulator pulse generator or receiver,3144.0,89,35.33
+95910,"Nerve transmission studies, 7-8 studies",3143.0,36,87.31
+20938,Harvest of bone for spine surgery graft,2981.0,46,64.8
+72132,CT scan of lower spine with contrast,2960.0,28,105.71
+22325,Surgical treatment of broken or dislocated lower spine bone,2945.0,47,62.66
+95909,"Nerve transmission studies, 5-6 studies",2930.0,31,94.52
+G2212,Prolonged office or other outpatient evaluation and management service(s) beyond the maximum required time of the primary procedure which has been selected using total time on the date of the primary service; each additional 15 minutes by the physician or,2805.0,32,87.66
+G0482,"Drug test(s), definitive, utilizing (1) drug identification methods able to identify individual drugs and distinguish between structural isomers (but not necessarily stereoisomers), including, but not limited to gc/ms (any type, single or tandem) and lc/ms",2791.0,7,398.71
+95913,"Nerve transmission studies, 13 or more studies",2764.0,27,102.37
+61863,Implantation of neurostimulator electrodes in brain,2757.0,40,68.92
+63053,Partial removal of bone of additional segment of spine in lower back with release of spinal cord and/or nerves during fusion of spine in lower back,2661.0,105,25.34
+62272,Spinal tap with drainage of spinal fluid,2646.0,53,49.92
+63005,Partial removal of bone with release of spinal cord or spinal nerves,2629.0,64,41.08
+99153,"Moderate sedation services by physician also performing a procedure, additional 15 minutes",2617.0,10,261.7
+G0483,"Drug test(s), definitive, utilizing drug identification methods able to identify individual drugs and distinguish between structural isomers (but not necessarily stereoisomers), including, but not limited to gc/ms (any type, single or tandem) and lc/ms (an",2602.0,7,371.71
+97760,Orthotic management of arm or leg and/or trunk each 15 minutes,2600.0,27,96.3
+27279,Fusion sacroiliac joint through the skin or minimally invasive using image guidance,2539.0,69,36.8
+64634,Injection of each additional upper or middle spinal facet joint nerve using imaging guidance,2487.0,8,310.88
+77522,"Proton treatment delivery, simple with compensation",2438.0,1,2438.0
+61790,Stereotactic creation of lesion of cranial nerve,2428.0,26,93.38
+G0477,"Drug tests(s), presumptive, any number of drug classes; any number of devices or procedures, (eg immunoassay) capable of being read by direct optical observation only (eg, dipsticks, cups, cards, cartridges), includes sample validation when performed, per",2420.0,27,89.63
+70250,"X-ray of skull, less than 4 views",2373.0,14,169.5
+36569,"Insertion of central venous catheter for infusion, patient 5 years or older",2369.0,2,1184.5
+99496,"Transitional care management services, highly complexity, requiring face-to-face visits within 7 days of discharge",2345.0,2,1172.5
+97598,Removal of tissue from wounds per session,2343.0,2,1171.5
+22859,Insertion of device into gap left by removal of part of vertebra,2332.0,43,54.23
+64722,Release of unspecified nerve,2328.0,21,110.86
+22849,Reinsertion of spinal fixation device,2293.0,70,32.76
+97750,"Physical performance test or measurement with report, each 15 minutes",2261.0,7,323.0
+99498,Advance care planning by the physician or other qualified health care professional,2243.0,2,1121.5
+35301,Removal of blood clot and portion of artery of neck,2233.0,63,35.44
+95991,Refilling and maintenance by physician of implantable spinal or brain drug delivery pump or reservoir,2230.0,9,247.78
+96103,Psychological testing with interpretation and report by computer,2219.0,15,147.93
+77280,"Management of radiation therapy simulation, simple",2218.0,2,1109.0
+82075,Measurement of alcohol level in breath specimen,2198.0,1,2198.0
+17250,Application of chemical agent to excessive wound tissue,2194.0,4,548.5
+J7999,"Compounded drug, not otherwise classified",2177.0,9,241.89
+22867,Insertion of stabilizing or separating device into lower spine at single level with open decompression,2164.0,61,35.48
+99239,"Hospital discharge day management, more than 30 minutes",2152.0,34,63.29
+99348,"Established patient home visit, typically 25 minutes",2151.0,2,1075.5
+76882,Partial ultrasound of joint or other non-blood vessel structure of arm or leg,2095.0,4,523.75
+36217,Insertion of catheter into chest or arm artery,2085.0,43,48.49
+20550,"Injection of tendon sheath, ligament, or muscle membrane",2065.0,4,516.25
+95939,Insertion of needles and skin electrodes for measurement and recording of stimulated sites in the arms and legs,2035.0,13,156.54
+72010,X-ray of entire spine,2026.0,16,126.62
+77334,"Radiation treatment devices, design and construction, complex",1989.0,2,994.5
+64772,Incision or removal of spinal nerve,1986.0,8,248.25
+64450,"Injection of anesthetic agent, other peripheral nerve or branch",1984.0,12,165.33
+93005,Routine electrocardiogram (EKG) with tracing using at least 12 leads,1963.0,26,75.5
+99345,"New patient home visit, typically 75 minutes",1961.0,1,1961.0
+70544,MRA scan of head blood vessels,1953.0,24,81.38
+27280,Fusion of sacroiliac joint,1948.0,51,38.2
+22852,Removal of spinal instrumentation,1937.0,52,37.25
+64615,Injection of chemical for destruction of facial and neck nerve muscles on both sides of face,1917.0,7,273.86
+93010,Routine electrocardiogram (EKG) using at least 12 leads with interpretation and report,1874.0,11,170.36
+J1020,"Injection, methylprednisolone acetate, 20 mg",1870.0,7,267.14
+93971,Ultrasound scan limited study of arm or leg veins including assessment of compression and functional maneuvers,1869.0,5,373.8
+20974,Placement of electrical bone healing device,1864.0,24,77.67
+99356,Prolonged inpatient or observation hospital service first hour,1864.0,11,169.45
+G6040,Alcohol (ethanol); any specimen except breath,1851.0,2,925.5
+99457,"Remote monitoring of physiologic parameters management services, 20 minutes or more of qualified health care professional time per calendar month",1815.0,3,605.0
+97535,"Self-care or home management training, each 15 minutes",1812.0,11,164.73
+95912,"Nerve transmission studies, 11-12 studies",1771.0,24,73.79
+77012,Radiological supervision and interpretation of CT guidance for needle insertion,1754.0,11,159.45
+63015,Partial removal of bone with release of spinal cord or spinal nerves,1748.0,70,24.97
+61458,Excision of skull base reduce cranial nerve pressure,1743.0,26,67.04
+97012,Application of mechanical traction to 1 or more areas,1738.0,7,248.29
+37215,Insertion of stent and blood clot protection device in neck artery,1731.0,41,42.22
+92546,Assessment and recording of abnormal eye movement with patient in a rotating chair,1730.0,10,173.0
+99358,Prolonged patient service without direct patient contact first hour,1710.0,23,74.35
+96136,"Psychological or neuropsychological test administration and scoring by qualified health care professional, first 30 minutes",1705.0,6,284.17
+63620,Stereotactic treatment of spine growth,1700.0,20,85.0
+29848,Release of wrist ligament using an endoscope,1700.0,28,60.71
+64616,Injection of chemical for destruction of nerve muscles on one side of neck excluding voice box accessed through the skin,1675.0,7,239.29
+J0735,"Injection, clonidine hydrochloride, 1 mg",1657.0,1,1657.0
+76881,Ultrasound of leg or arm,1630.0,4,407.5
+72083,"X-ray of spine, 4 or 5 views",1621.0,20,81.05
+61799,Stereotactic treatment of brain growth,1621.0,18,90.06
+95874,Needle measurement and recording of electrical activity of muscles for guidance with injection of chemical for destruction of muscles,1614.0,6,269.0
+20551,Injection of tendon attachment to bone,1607.0,4,401.75
+94060,"Measurement and graphic recording of the amount and speed of breathed air, before and following medication administration",1603.0,1,1603.0
+36245,Insertion of catheter into abdominal pelvic or leg artery,1590.0,9,176.67
+J7050,"Infusion, normal saline solution , 250 cc",1581.0,2,790.5
+63710,Placement of spinal cord graft,1577.0,21,75.1
+J7799,"Noc drugs, other than inhalation drugs, administered through dme",1577.0,5,315.4
+92547,Use of vertical electrodes during eye or balance evaluation,1565.0,5,313.0
+70360,X-ray of soft tissue of neck,1548.0,1,1548.0
+72128,CT scan of middle spine,1540.0,22,70.0
+85025,"Complete blood cell count (red cells, white blood cell, platelets), automated test",1534.0,22,69.73
+74220,X-ray of esophagus,1532.0,1,1532.0
+62165,Removal of pituitary gland tumor using an endoscope,1516.0,32,47.38
+61154,Aspiration of blood accumulation in brain,1507.0,67,22.49
+99454,"Remote monitoring of physiologic parameters, initial supply of devices with daily recordings or programmed alerts transmission, each 30 days",1489.0,3,496.33
+11045,Removal of skin and tissue,1483.0,6,247.17
+73221,MRI scan of arm joint arm joint,1482.0,23,64.43
+62320,Injection of substance into spinal canal of upper or middle back,1478.0,5,295.6
+0398T,Destruction of tissue of brain using MRI guidance,1465.0,25,58.6
+92540,"Observation, testing, and recording of abnormal eye movement",1453.0,10,145.3
+22525,Injection of bone cement body of middle or lower spine bone,1431.0,48,29.81
+70371,Imaging of voice box with speech evaluation,1413.0,1,1413.0
+G0340,"Image-guided robotic linear accelerator-based stereotactic radiosurgery, delivery including collimator changes and custom plugging, fractionated treatment, all lesions, per session, second through fifth sessions, maximum five sessions per course of treatme",1413.0,1,1413.0
+74018,"X-ray of abdomen, 1 view",1408.0,10,140.8
+64479,Injection of upper or middle spine nerve root using imaging guidance,1388.0,18,77.11
+64633,Injection of upper or middle spinal facet joint nerve using imaging guidance,1371.0,9,152.33
+73030,"X-ray of shoulder, minimum of 2 views",1359.0,18,75.5
+J2930,"Injection, methylprednisolone sodium succinate, up to 125 mg",1356.0,2,678.0
+93923,Ultrasound study of arteries of legs with functional maneuvers,1322.0,7,188.86
+93040,Tracing of electrical activity of heart using 1-3 leads with interpretation and report,1320.0,3,440.0
+20611,Aspiration and/or injection of major joint or joint capsule with recording and reporting using ultrasound guidance,1320.0,3,440.0
+97124,"Therapeutic massage to 1 or more areas, each 15 minutes",1313.0,3,437.67
+99220,Hospital observation care typically 70 minutes,1299.0,31,41.9
+G2012,"Brief communication technology-based service, e.g. virtual check-in, by a physician or other qualified health care professional who can report evaluation and management services, provided to an established patient, not originating from a related e/m servic",1287.0,54,23.83
+61864,Implantation of neurostimulator electrodes in brain,1287.0,21,61.29
+73502,"X-ray of hip with pelvis, 2-3 views",1279.0,27,47.37
+64999,Nervous system procedure,1269.0,17,74.65
+93890,Ultrasound scanning for medication response in head and neck vessel blood flow (inside the brain),1255.0,3,418.33
+63091,Partial or complete removal of spine bone with release of spinal cord or nerves,1246.0,8,155.75
+99349,"Established patient home visit, typically 40 minutes",1243.0,3,414.33
+62282,Injection of spinal canal to destroy nerve,1216.0,5,243.2
+64718,Release of ulnar nerve at elbow with relocation to new site,1213.0,23,52.74
+72265,Radiological supervision and interpretation X-ray of lower spinal canal,1211.0,13,93.15
+99310,"Follow-up nursing facility visit per day, typically 35 minutes",1204.0,6,200.67
+Q3014,Telehealth originating site facility fee,1203.0,6,200.5
+64405,"Injection of anesthetic agent, greater occipital nerve",1193.0,20,59.65
+15769,Self soft tissue graft,1190.0,20,59.5
+63017,Partial removal of bone with release of spinal cord or spinal nerves,1182.0,31,38.13
+64445,"Injection of anesthetic agent, sciatic nerve",1163.0,4,290.75
+61618,Repair of brain covering by tissue or synthetic graft,1150.0,31,37.1
+61070,Aspiration or injection of cerebrospinal fluid shunt tubing or reservoir,1147.0,11,104.27
+95974,Electronic analysis and programming of implanted complex cranial neurostimulator generator system during or subsequent to surgery first hour,1142.0,29,39.38
+99306,"Initial nursing facility visit, typically 45 minutes per day",1141.0,7,163.0
+36222,Insertion of catheter into neck artery for diagnosis or treatment,1134.0,22,51.55
+20650,Insertion and removal of wire or pin with bone traction,1114.0,4,278.5
+96116,"Neurobehavioral status examination, interpretation, and report by psychologist or physician per hour",1096.0,7,156.57
+61548,Excision of pituitary gland tumor,1094.0,14,78.14
+99219,Hospital observation care typically 50 minutes,1090.0,33,33.03
+80048,"Blood test, basic group of blood chemicals",1089.0,20,54.45
+72069,"X-ray of middle and lower spine, standing view",1088.0,10,108.8
+99218,Hospital observation care typically 30 minutes,1079.0,33,32.7
+62319,Injection and continuous infusion into spinal canal,1073.0,5,214.6
+95957,Digital analysis of electrical brain wave activity (EEG),1067.0,5,213.4
+11044,"Removal of bone, 20.0 sq cm or less",1066.0,4,266.5
+74178,CT scan of abdomen and pelvis before and after contrast,1064.0,2,532.0
+97162,"Evaluation of physical therapy, typically 30 minutes",1051.0,27,38.93
+73560,"X-ray of knee, 1 or 2 views",1049.0,8,131.12
+95923,Testing of autonomic (sympathetic) nervous system function,1041.0,5,208.2
+73562,"X-ray of knee, 3 views",1037.0,8,129.62
+64612,Injection of chemical for destruction of facial nerve muscles,1030.0,4,257.5
+95955,Measurement of electrical activity (EEG) outside the brain during surgery,1018.0,7,145.43
+72200,"X-ray of sacroiliac joints, less than 3 views",1016.0,6,169.33
+64640,Destruction of peripheral nerve or branch,1004.0,8,125.5
+77295,"Management of radiation therapy, 3D",998.0,4,249.5
+99407,"Smoking and tobacco use intensive counseling, greater than 10 minutes",994.0,5,198.8
+99282,"Emergency department visit, low to moderately severe problem",983.0,39,25.21
+22850,Removal of spinal instrumentation,983.0,27,36.41
+99304,"Initial nursing facility visit, typically 25 minutes per day",980.0,4,245.0
+22328,Surgical treatment of broken or dislocated spine bone,970.0,7,138.57
+20660,Application of cranial tongs (stabilization device for skull),954.0,21,45.43
+73564,"X-ray of knee, 4 or more views",933.0,9,103.67
+95822,"Measurement and recording of brain wave (EEG) activity, in coma or asleep",931.0,12,77.58
+61512,Removal of brain tumor,922.0,26,35.46
+77336,Radiation therapy consultation,920.0,3,306.67
+64480,Injection of upper or middle spine nerve root using imaging guidance,905.0,7,129.29
+63090,Partial or complete removal of spine bone with release of spinal cord or nerves,900.0,9,100.0
+G0444,"Annual depression screening, 15 minutes",897.0,8,112.12
+72295,"Radiological supervision and interpretation X-ray of disc of vertebra, lower spine",879.0,5,175.8
+74000,"X-ray of abdomen, single view",871.0,4,217.75
+G0328,"Colorectal cancer screening; fecal occult blood test, immunoassay, 1-3 simultaneous",869.0,1,869.0
+70470,CT scan head or brain before and after contrast,859.0,4,214.75
+72156,MRI scan of upper spinal canal before and after contrast,856.0,23,37.22
+70496,CT scan of blood vessel of head,849.0,16,53.06
+93925,Ultrasound study of arteries and arterial grafts of legs,849.0,4,212.25
+61751,"Stereotactic biopsy, aspiration, or excision of brain lesion using CT and/or MRI guidance",841.0,16,52.56
+62270,Spinal tap for diagnosis,839.0,13,64.54
+15271,"Application of skin substitute (wound surface up to 100 sq cm) to trunk, arms, or legs (first 25 sq cm or less)",831.0,3,277.0
+95921,Testing of autonomic (sympathetic) nervous system function,827.0,4,206.75
+95870,Needle measurement and recording of electrical activity of muscles in arm or leg or non-limb muscles other than middle spinal or cranial nerve supplied muscles,824.0,9,91.56
+62304,X-ray of lower spinal canal with radiological supervision and interpretation,811.0,19,42.68
+22208,Incision of spine to correct deformity at middle or lower spinal column,808.0,3,269.33
+61888,Revision or removal of brain neurostimulator generator or receiver,802.0,22,36.45
+J2001,"Injection, lidocaine hcl for intravenous infusion, 10 mg",801.0,6,133.5
+62230,Replacement or revision of brain fluid drainage shunt valve or catheter,788.0,8,98.5
+64555,Implantation of peripheral nerve neurostimulator electrodes,783.0,15,52.2
+93306,"Ultrasound examination of heart including color-depicted blood flow rate, direction, and valve function",783.0,3,261.0
+62143,Replacement of bone flap or prosthesis in skull,770.0,9,85.56
+82542,Chemical analysis using chromatography technique,768.0,1,768.0
+77370,Radiation therapy consultation,760.0,3,253.33
+95925,Insertion of needles and skin electrodes for measurement and recording of stimulated sites in the arms,755.0,9,83.89
+62145,Reshaping of skull bone defect,738.0,8,92.25
+77470,Special radiation treatment procedure,737.0,3,245.67
+37184,Removal of blood clot from artery or arterial graft using fluoroscopic guidance,733.0,38,19.29
+61055,Aspiration of spinal fluid in upper spine,732.0,2,366.0
+G0179,"Physician re-certification for medicare-covered home health  services under a home health plan of care (patient not present), including contacts with home health agency and review of reports of patient status required by physicians to affirm the initial im",724.0,9,80.44
+81001,Manual urinalysis test with examination using microscope,717.0,6,119.5
+99234,Hospital observation or inpatient care low severity,711.0,9,79.0
+95811,Sleep monitoring of patient (6 years or older) in sleep lab with continued pressured respiratory assistance by mask or breathing tube,711.0,5,142.2
+G0408,"Follow-up inpatient consultation, complex, physicians typically spend 35 minutes communicating with the patient via telehealth",708.0,1,708.0
+95813,Measurement of brain wave (EEG) activity greater than 1 hour,705.0,10,70.5
+76496,Fluoroscopic procedure,699.0,4,174.75
+22844,"Insertion of posterior spinal instrumentation for spinal stabilization, 13 or more vertebral segments",699.0,10,69.9
+93922,Ultrasound study of arteries of legs,697.0,3,232.33
+77073,X-ray for bone length assessment,696.0,8,87.0
+99145,"Moderate sedation services by physician also performing a procedure, each additional 15 minutes",693.0,3,231.0
+62160,Insertion of brain fluid shunt catheter using an endoscope,692.0,8,86.5
+36465,Injection of chemical agent into single incompetent vein of leg using ultrasound guidance,688.0,1,688.0
+J0690,"Injection, cefazolin sodium, 500 mg",688.0,3,229.33
+62367,Electronic analysis of spinal canal drug infusion pump,683.0,8,85.38
+73510,X-ray of hip 2 or more views,683.0,19,35.95
+22511,Injection of bone cement into body of middle spine bone accessed through the skin using imaging guidance,672.0,18,37.33
+73120,"X-ray of hand, 2 views",664.0,1,664.0
+14001,Tissue transfer repair of wound (10.1 sq centimeters to 30.0 sq centimeters) of the trunk,664.0,5,132.8
+76700,Ultrasound of abdomen,663.0,4,165.75
+63075,Removal of upper spine disc and release of spinal cord or nerves,663.0,18,36.83
+78320,Nuclear medicine study of bone and/or joint,662.0,2,331.0
+95979,Electronic analysis and programming of implanted complex deep brain neurostimulator generator system,661.0,5,132.2
+95810,Sleep monitoring of patient (6 years or older) in sleep lab,658.0,5,131.6
+G0481,"Drug test(s), definitive, utilizing (1) drug identification methods able to identify individual drugs and distinguish between structural isomers (but not necessarily stereoisomers), including, but not limited to gc/ms (any type, single or tandem) and lc/ms",656.0,6,109.33
+64447,"Injection of anesthetic agent, thigh nerve",648.0,2,324.0
+99451,"Telephone or internet assessment and management service provided by consultative physician with written report, 5 minutes or more of medical consultative discussion and review",644.0,13,49.54
+99422,"Online digital evaluation and management service for an established patient for up to 7 days, total time 11-20 minutes",643.0,9,71.44
+22899,Spine procedure,643.0,19,33.84
+61880,Revision or removal of brain neurostimulator electrodes,642.0,5,128.4
+61156,Aspiration of blood accumulation or cyst in brain,637.0,6,106.17
+22207,Incision of spine to correct deformity at lower spinal column,635.0,6,105.83
+77523,"Proton treatment delivery, intermediate",634.0,1,634.0
+61697,Repair of bulging of blood vessel (aneurysm) in brain,632.0,18,35.11
+36556,Insertion of catheter in vein for infusion,630.0,8,78.75
+99305,"Initial nursing facility visit, typically 35 minutes per day",629.0,7,89.86
+51703,Insertion of indwelling bladder catheter,628.0,1,628.0
+62140,Reshaping of (up to 5 centimeter diameter) skull bone defect,622.0,14,44.43
+G0339,"Image-guided robotic linear accelerator-based stereotactic radiosurgery, complete course of therapy in one session or first session of fractionated treatment",619.0,2,309.5
+76120,Imaging of organ,618.0,4,154.5
+G0181,Physician supervision of a patient receiving medicare-covered services provided by a participating home health agency (patient not present) requiring complex and multidisciplinary care modalities involving regular physician development and/or revision of c,612.0,4,153.0
+22212,Incision of spine to correct deformity at middle spinal column,612.0,18,34.0
+99225,"Subsequent observation care, typically 25 minutes per day",609.0,22,27.68
+63046,Partial removal of middle spine bone with release of spinal cord or nerves,608.0,20,30.4
+80053,"Blood test, comprehensive group of blood chemicals",607.0,13,46.69
+95908,"Nerve transmission studies, 3-4 studies",600.0,13,46.15
+76830,Ultrasound pelvis through vagina,596.0,1,596.0
+14302,Tissue transfer repair of wound (30.0 sq centimeters),586.0,3,195.33
+22510,Injection of bone cement into body of middle spine bone accessed through the skin using imaging guidance,584.0,14,41.71
+36216,Insertion of catheter into chest or arm artery,582.0,14,41.57
+62100,Repair of membrane covering the brain,580.0,8,72.5
+31502,Change of breathing tube of windpipe in neck,578.0,1,578.0
+61210,"Implantation of brain catheter, reservoir, EEG electrodes, pressure or other monitoring device",576.0,14,41.14
+90960,"Dialysis services (4 or more physician visits per month), patient 20 years of age and older",573.0,2,286.5
+93888,Ultrasound limited scanning of head and neck blood flow (inside the brain),563.0,7,80.43
+73580,Radiological supervision and interpretation X-ray of knee joint,562.0,2,281.0
+63011,Partial removal of bone with release of spinal cord or spinal nerves,559.0,8,69.88
+99447,"Telephone or internet assessment and management service provided by consultative physician with verbal and written report, 11-20 minutes of medical consultative discussion and review",552.0,15,36.8
+77427,"Radiation treatment management, 5 treatments",552.0,1,552.0
+22856,"Insertion of artificial upper spine disc, anterior approach",552.0,15,36.8
+74176,CT scan of abdomen and pelvis,550.0,7,78.57
+61608,Removal of lesion at skull base,549.0,8,68.62
+43760,"Change of stomach feeding, accessed through the skin",546.0,1,546.0
+15770,"Creation of skin, fat and muscle graft",545.0,9,60.56
+87641,"Detection test for Staphylococcus aureus, methicillin resistant (MRSA bacteria)",544.0,7,77.71
+22533,"Fusion of lower spine bones with removal of disc, lateral approach",541.0,16,33.81
+72072,"X-ray of middle spine, 3 views",536.0,22,24.36
+20225,Deep biopsy of bone using needle or trocar,531.0,9,59.0
+92585,Placement of scalp electrodes for assessment and recording of responses from several areas of the nerve-brain hearing system,525.0,3,175.0
+G0101,Cervical or vaginal cancer screening; pelvic and clinical breast examination,519.0,1,519.0
+11046,Removal of skin and/or muscle,515.0,3,171.67
+G0427,"Telehealth consultation, emergency department or initial inpatient, typically 70 minutes or more communicating with the patient via telehealth",511.0,2,255.5
+15734,Muscle flap wound repair at trunk,506.0,10,50.6
+95720,"Measurement of brain wave activity with video (veeg), 12-26 hours with review and report by health care professional",506.0,6,84.33
+64708,Release of nerve of arm or leg,504.0,9,56.0
+77011,CT scan guidance for stereotactic localization,502.0,12,41.83
+95924,"Testing of autonomic (sympathetic) nervous system function, at least 5 minutes of tilt",497.0,3,165.67
+73620,"X-ray of foot, 2 views",489.0,2,244.5
+20900,Small bone graft from any donor area,486.0,7,69.43
+14021,"Repair of wound of scalp, arms, or legs by transferring skin, 10.1-30.0 sq cm",482.0,1,482.0
+01996,Daily hospital management of continuous spinal drug administration,477.0,1,477.0
+36140,Insertion of needle or catheter into an artery of arm or leg,477.0,5,95.4
+61592,Removal of cheek bone and skull to approach brain lesion,473.0,9,52.56
+87640,Detection test for Staphylococcus aureus (bacteria),471.0,6,78.5
+76770,Ultrasound behind abdominal cavity,469.0,1,469.0
+22800,"Fusion of spine bones for correction of deformity, posterior approach, up to 6 vertebral segments",468.0,10,46.8
+61107,Insertion of brain drainage catheter or fluid pressure recording/monitoring device,468.0,20,23.4
+82055,Alcohol (ethanol) level,455.0,2,227.5
+62351,"Implantation, revision, or repositioning of catheter in spinal canal for medication administration",453.0,4,113.25
+G0436,"Smoking and tobacco cessation counseling visit for the asymptomatic patient; intermediate, greater than 3 minutes, up to 10 minutes",453.0,8,56.62
+11721,Removal of tissue from 6 or more finger or toe nails,452.0,1,452.0
+99347,"Established patient home visit, typically 15 minutes",452.0,2,226.0
+J0171,"Injection, adrenalin, epinephrine, 0.1 mg",450.0,1,450.0
+95812,"Measurement of brain wave (EEG) activity, 41-60 minutes",447.0,7,63.86
+77421,X-ray guidance for radiation therapy delivery,446.0,2,223.0
+77525,"Proton treatment delivery, complex",442.0,1,442.0
+71010,"X-ray of chest, 1 view, front",439.0,5,87.8
+85018,Hemoglobin measurement,439.0,2,219.5
+93975,"Ultrasound scan of abdominal, pelvic, and/or scrotal arterial inflow and venous outflow",438.0,1,438.0
+27370,Injection of contract for X-ray imaging of knee,433.0,2,216.5
+81000,Manual urinalysis test with examination using microscope,433.0,3,144.33
+11010,Removal of foreign material from skin and tissue at open fracture and/or dislocation,432.0,1,432.0
+G0478,"Drug tests(s), presumptive, any number of drug classes; any number of devices or procedures, (eg immunoassay) read by instrument-assisted direct optical observation (eg, dipsticks, cups, cards, cartridges), includes sample validation when performed, per da",432.0,6,72.0
+82962,Blood glucose (sugar) test performed by hand-held instrument,432.0,3,144.0
+15777,Implantation of biologic implant to soft tissue,430.0,3,143.33
+87426,Detection test by immunoassay technique for severe acute respiratory syndrome coronavirus,429.0,4,107.25
+95943,Testing of autonomic (parasympathetic and sympathetic) nervous system function,420.0,2,210.0
+22226,Incision of spine bone with removal of disc in spinal column,410.0,8,51.25
+95926,Insertion of needles and skin electrodes for measurement and recording of stimulated sites in the legs,410.0,5,82.0
+96137,"Psychological or neuropsychological test administration and scoring by qualified health care professional, additional 30 minutes",409.0,1,409.0
+70549,MRA scan of neck blood vessels before and after contrast,405.0,1,405.0
+61650,Infusion of chemical agent into the artery of brain with insertion of catheter and imaging,396.0,8,49.5
+G0008,Administration of influenza virus vaccine,394.0,5,78.8
+G0168,Wound closure utilizing tissue adhesive(s) only,388.0,2,194.0
+31500,Emergent insertion of breathing tube into windpipe cartilage using an endoscope,388.0,6,64.67
+14301,Tissue transfer repair of wound (30.1 to 60.0 sq centimeters),385.0,3,128.33
+72126,CT scan of upper spine with contrast,384.0,13,29.54
+62290,Injection of dye for X-ray imaging of spine disc,381.0,4,95.25
+61619,Repair of brain covering by vascular or combined vascular muscle graft,381.0,6,63.5
+63621,Stereotactic treatment of spine growth,381.0,7,54.43
+37202,Insertion of catheter into blood vessel for drug infusion,379.0,8,47.38
+22224,Incision of spine bone with removal of disc material at lower spinal column,377.0,9,41.89
+99453,"Remote monitoring of physiologic parameters, initial set-up and patient education on use of equipment",373.0,3,124.33
+96365,"Infusion into a vein for therapy, prevention, or diagnosis up to 1 hour",371.0,2,185.5
+63055,Release of middle spinal cord and/or nerves,369.0,5,73.8
+72157,MRI scan of middle spinal canal before and after contrast,360.0,6,60.0
+99281,"Emergency department visit, self limited or minor problem",360.0,11,32.73
+22512,Injection of bone cement into body of middle or lower spine accessed through the skin using imaging guidance,357.0,8,44.62
+90935,Hemodialysis procedure with one physician evaluation,355.0,3,118.33
+72129,CT scan of middle spine with contrast,354.0,11,32.18
+20975,Electrical stimulation to aid bone healing; invasive (operative),352.0,8,44.0
+63102,Partial or complete removal of lower spine bone with release of spinal cord or nerves,349.0,4,87.25
+93882,Ultrasound limited scanning of head and neck blood flow (outside the brain),347.0,3,115.67
+36218,Insertion of catheter into chest or arm artery,346.0,3,115.33
+81002,"Urinalysis, manual test",344.0,7,49.14
+99423,"Online digital evaluation and management service, for an established patient, for up to 7 days, cumulative time during the 7 days; 21 or more minutes",342.0,9,38.0
+A9561,"Technetium tc-99m oxidronate, diagnostic, per study dose, up to 30 millicuries",342.0,1,342.0
+92083,Measurement of field of vision during daylight conditions,340.0,1,340.0
+A9503,"Technetium tc-99m medronate, diagnostic, per study dose, up to 30 millicuries",340.0,2,170.0
+72090,"X-ray of spine, scoliosis study",340.0,7,48.57
+63103,"Removal of middle or lower spine bone with release of spinal cord and/or nerves, lateral extracavitary approach",339.0,2,169.5
+95977,"Electronic analysis of implanted brain, spinal cord or peripheral stimulation device with complex cranial nerve stimulator programming",337.0,8,42.12
+72202,"X-ray of joint between lower spine and hip bone, 3 or more views",332.0,6,55.33
+97762,"Evaluation of orthotic or prosthetic use, each 15 minutes",330.0,2,165.0
+36620,Insertion of arterial catheter for blood sampling or infusion,330.0,11,30.0
+92537,Assessment and recording of balance system during hot and cold irrigation of both ears,328.0,3,109.33
+11012,"Removal of foreign material from skin, tissue, muscle, and bone at open fracture and/or dislocation",328.0,1,328.0
+93893,Ultrasound scanning for blood clot detection with microbubble injection in head and neck vessel blood flow (inside the brain),326.0,3,108.67
+49320,Diagnostic examination of the abdomen using an endoscope,324.0,2,162.0
+70552,MRI scan of brain with contrast,322.0,11,29.27
+95953,Monitoring and localization of seizure activity over 24-hour period using portable 16-channel electroencephalograph (EEG),315.0,4,78.75
+99224,"Subsequent observation care, typically 15 minutes per day",314.0,12,26.17
+96118,"Neuropsychological testing, interpretation, and report by psychologist or physician per hour",314.0,2,157.0
+76100,Imaging procedure of body section,314.0,1,314.0
+75716,Imaging of artery of arms or legs,313.0,5,62.6
+73630,"X-ray of foot, minimum of 3 views",306.0,3,102.0
+36410,Insertion of needle into vein for diagnostic procedure,306.0,3,102.0
+75896,Radiological supervision and interpretation of infusion via catheter for destruction of blood clot,305.0,6,50.83
+14041,"Repair of wound of forehead, cheeks, chin, mouth, neck, underarms, genitals, hands, or feet by transferring skin, 10.1-30.0 sq cm",304.0,1,304.0
+92270,Evaluation of retinal response to light,303.0,2,151.5
+63076,Removal of upper spine disc and release of spinal cord or nerves,302.0,7,43.14
+63051,Reconstruction of bone around spinal canal with release of spinal cord,299.0,17,17.59
+61623,Balloon occlusion of head or neck artery,290.0,5,58.0
+36246,Insertion of catheter into abdominal pelvic or leg artery,289.0,3,96.33
+94010,Measurement and graphic recording of total and timed exhaled air capacity,289.0,1,289.0
+85027,"Complete blood cell count (red cells, white blood cell, platelets), automated test",288.0,4,72.0
+14040,"Repair of wound of forehead, cheeks, chin, mouth, neck, underarms, genitals, hands, or feet by transferring skin, 10.0 sq cm or less",287.0,1,287.0
+22802,"Fusion of spine bones for correction of deformity, posterior approach, 7 to 12 vertebral segments",285.0,12,23.75
+20251,Incisional biopsy of spine bone at upper or lower spinal column,280.0,2,140.0
+63020,Partial removal of bone with release of spinal cord or spinal nerves of 1 interspace in upper spine,279.0,10,27.9
+99448,"Telephone or internet assessment and management service provided by consultative physician with verbal and written report, 21-30 minutes of medical consultative discussion and review",279.0,10,27.9
+72192,CT scan pelvis,278.0,5,55.6
+70498,CT scan of neck blood vessels with contrast,277.0,7,39.57
+63662,Removal of spinal neurostimulator electrodes,276.0,16,17.25
+95956,Monitoring and localization of seizure activity over 24-hour period using electroencephalograph (EEG),275.0,3,91.67
+77080,Bone density measurement spine or hips using dedicated X-ray machine,274.0,12,22.83
+62328,Removal of spinal fluid with lower back spinal tap for diagnostic test using imaging guidance,270.0,3,90.0
+70460,Ct scan head or brain with contrast,266.0,7,38.0
+J7040,"Infusion, normal saline solution, sterile (500 ml = 1 unit)",261.5,2,130.75
+22868,Insertion of stabilizing or separating device into lower spine at additional level with open decompression,258.0,6,43.0
+14000,Tissue transfer repair of wound (10 sq centimeters or less) of the trunk,258.0,3,86.0
+77371,"Radiation therapy delivery, stereotactic radiosurgery (SRS)",257.0,1,257.0
+64795,Biopsy of nerve,257.0,4,64.25
+22220,Incision of spine bone with removal of disc at upper spinal column,256.0,5,51.2
+22521,Injection of cement into body of lower spine bone,255.0,11,23.18
+92542,Observation and recording from multiple positions of abnormal eye movements,253.0,4,63.25
+J2405,"Injection, ondansetron hydrochloride, per 1 mg",253.0,1,253.0
+75774,Review by radiologist of additional artery image,252.0,1,252.0
+64714,Release of nerve of upper leg,252.0,8,31.5
+90961,"Dialysis services (2-3 physician visits per month), patient 20 years of age and older",252.0,2,126.0
+20200,Biopsy of muscle,251.0,4,62.75
+95937,Testing with stimulation with assessment of function at muscle-nerve junction,250.0,5,50.0
+61582,Removal of facial bone to approach brain lesion,248.0,2,124.0
+22520,Injection of cement into body of middle spine bone,248.0,11,22.55
+61140,Drainage or biopsy of brain or lesion,245.0,3,81.67
+77014,CT scan guidance for insertion of radiation therapy fields,245.0,2,122.5
+64643,"Injection of chemical for destruction of nerve muscles on arm or leg, 1-4 muscles",244.0,1,244.0
+0171T,Insertion of lower spine spinous process distraction device using imaging guidance,244.0,13,18.77
+95962,Mapping of electrical brain wave activity (EEG) to provoke seizure activity or assess brain function,242.0,5,48.4
+64610,Destruction of trigeminal (facial) nerve branch under X-ray monitoring,241.0,7,34.43
+77078,CT scan bone mineral density study 1 or more sites,241.0,3,80.33
+75809,Imaging of vascular diversion device,240.0,3,80.0
+15275,"Application of skin substitute (wound surface up to 100 sq cm) to face, scalp, eyelids, mouth, neck, ears, eye region, genitals, hands, feet, and/or multiple fingers or toes (first 25 sq cm or less)",239.0,2,119.5
+99439,"Chronic care management services for two or more chronic conditions, additional 20 minutes of clinical staff time directed by health care professional, per calendar month",238.0,2,119.0
+92611,Fluoroscopic and video recorded motion evaluation of swallowing function,238.0,1,238.0
+96401,Non-hormonal anti-neoplastic chemotherapy beneath the skin or into muscle,237.0,1,237.0
+73521,"X-ray of both hips with pelvis, 2 views",235.0,8,29.38
+74177,CT scan of abdomen and pelvis,234.0,4,58.5
+J3420,"Injection, vitamin b-12 cyanocobalamin, up  to 1000 mcg",233.0,4,58.25
+63276,Removal or biopsy of middle spine bone growth,232.0,5,46.4
+13101,Repair of wound (2.6 centimeters to 7.5 centimeters) of trunk,231.0,2,115.5
+62256,Removal of brain and spinal fluid shunt system,226.0,6,37.67
+64418,"Injection of anesthetic agent, collar bone nerve",223.0,2,111.5
+92950,Attempt to restart heart and lungs,223.0,2,111.5
+71250,CT scan chest,223.0,4,55.75
+J0696,"Injection, ceftriaxone sodium, per 250 mg",222.0,1,222.0
+73110,"X-ray of wrist, minimum of 3 views",220.0,1,220.0
+99446,"Telephone or internet assessment and management service provided byconsultative physician with verbal and written report, 5-10 minutes of medical consultative discussion and review",220.0,7,31.43
+72195,MRI scan of pelvis,219.0,3,73.0
+63707,Repair of spinal fluid leak,219.0,4,54.75
+62281,Injection of spinal canal to destroy nerve,219.0,1,219.0
+95961,Mapping of electrical brain wave activity (EEG) using electrodes on brain surface to provoke seizure activity or assess brain function,218.0,8,27.25
+96132,"Neuropsychological testing evaluation by qualified health care professional, first 60 minutes",217.0,4,54.25
+62192,Creation of brain fluid drainage shunt,216.0,4,54.0
+62220,Creation of brain fluid drainage shunt,216.0,4,54.0
+87811,Detection test by immunoassay with direct visual observation for severe acute respiratory syndrome coronavirus 2 (covid-19),215.0,1,215.0
+61601,Removal of lesion at skull base,213.0,6,35.5
+97033,"Application of medication through skin using electrical current, each 15 minutes",212.0,1,212.0
+62380,Decompression of spinal cord and/or nerve root in lower back using endoscope,211.0,4,52.75
+99487,Complex chronic care management services 60 minutes clinical staff time,211.0,2,105.5
+63661,Removal or revision of spinal neurostimulator electrodes,211.0,7,30.14
+G0480,"Drug test(s), definitive, utilizing (1) drug identification methods able to identify individual drugs and distinguish between structural isomers (but not necessarily stereoisomers), including, but not limited to gc/ms (any type, single or tandem) and lc/ms",210.0,2,105.0
+61584,Removal of facial bone to approach brain lesion,208.0,5,41.6
+21499,Musculoskeletal procedure of head,203.0,4,50.75
+10180,Drainage of wound infection after surgery,202.0,4,50.5
+27447,Repair of knee joint,202.0,2,101.0
+99483,"Assessment of and care planning for patient with impaired thought processing, typically 50 minutes",201.0,2,100.5
+22869,Insertion of stabilizing or separating device into lower spine at single level,199.0,4,49.75
+71045,"X-ray of chest, 1 view",199.0,4,49.75
+96133,"Neuropsychological testing evaluation by qualified health care professional, additional 60 minutes",198.0,1,198.0
+95718,"Measurement of brain wave activity with video (veeg), 2-12 hours with review and report by health care professional",197.0,3,65.67
+64646,"Injection of chemical for destruction of nerve muscles on trunk, 5 or more muscles",197.0,1,197.0
+93924,Ultrasound of leg arteries at rest and after exercise,195.0,1,195.0
+61580,Removal of nasal sinuses to approach brain lesion,190.0,2,95.0
+64613,Injection of chemical for destruction of neck muscles,188.0,5,37.6
+62141,"Repair of skull bone defect, more than 5.0 cm",187.0,5,37.4
+61700,Repair of bulging of blood vessel (aneurysm) in brain,184.0,4,46.0
+J7030,"Infusion, normal saline solution , 1000 cc",183.0,2,91.5
+20205,Deep biopsy of muscle,182.0,8,22.75
+95806,"Sleep study including heart rate, breathing, airflow, and effort",182.0,2,91.0
+62225,Replacement or irrigation of brain fluid drainage shunt catheter,181.0,2,90.5
+11011,"Removal of foreign material from skin, tissue, and muscle at open fracture and/or dislocation",181.0,1,181.0
+97163,"Evaluation of physical therapy, typically 45 minutes",179.0,1,179.0
+13121,"Complicated repair of wound of scalp, arms, or legs, 2.6-7.5 cm",179.0,1,179.0
+G6002,Stereoscopic x-ray guidance for localization of target volume for the delivery of radiation therapy,179.0,1,179.0
+72270,"Imaging of spinal canal, 2 or more spinal regions",178.0,4,44.5
+95829,Measurement of brain activity (EEG) during surgery,178.0,2,89.0
+A4220,Refill kit for implantable infusion pump,177.0,1,177.0
+75954,Radiological supervision and interpretation of repair of artery of pelvis procedure,176.0,1,176.0
+Q9977,"Compounded Drug, Not Otherwise Classified",175.0,3,58.33
+20922,Incision of deep thigh tissue for graft,175.0,2,87.5
+61616,Excision of abnormal blood vessel at skull base or upper spine bones,174.0,6,29.0
+92653,Evaluation of brain response to sound for diagnosis of nervous system disorders with interpretation and report,174.0,2,87.0
+63003,Partial removal of bone with release of spinal cord or spinal nerves,174.0,3,58.0
+99226,"Subsequent observation care, typically 35 minutes per day",174.0,8,21.75
+95992,"Repositioning maneuvers for treatment of vertigo, per day",173.0,1,173.0
+61782,Computer-assisted procedure outside the brain,172.0,5,34.4
+95851,"Range of motion testing of arm, leg or each spine section",172.0,4,43.0
+99235,Hospital observation or inpatient care moderate severity,171.0,5,34.2
+76856,Ultrasound of pelvis,169.0,3,56.33
+22534,"Fusion of middle or lower spine bones with removal of disc, lateral approach",167.0,2,83.5
+62194,Replacement or irrigation of tube in membranes covering brain,166.0,2,83.0
+64642,"Injection of chemical for destruction of nerve muscles on arm or leg, 1-4 muscles",164.0,1,164.0
+14060,"Repair of wound of eyelids, nose, ears, or lips by transferring skin, 10.0 sq cm or less",164.0,1,164.0
+77067,Mammography of both breasts,163.0,1,163.0
+20902,Bone graft harvest,162.0,4,40.5
+70546,MRA scan of head blood vessels before and after contrast,162.0,2,81.0
+95940,"Continuous monitoring of nervous system during operation, each 15 minutes",162.0,1,162.0
+62326,Insertion of indwelling catheter and administration of substance into spinal canal of lower back,162.0,1,162.0
+62355,Removal of implanted catheter in spinal canal,161.0,4,40.25
+73610,"X-ray of ankle, minimum of 3 views",161.0,1,161.0
+95927,Insertion of needles and skin electrodes for measurement and recording of stimulated sites on the trunk or head,160.0,2,80.0
+85576,Platelet function test,160.0,1,160.0
+76536,Ultrasound scan of head and neck soft tissue,159.0,2,79.5
+73718,MRI scan of leg,158.0,3,52.67
+G0202,"Screening mammography, bilateral (2-view study of each breast), including computer-aided detection (cad) when performed",158.0,1,158.0
+92548,Test for balance and posture,157.0,3,52.33
+34808,Insertion of device to block groin artery,157.0,1,157.0
+34805,Repair of bulging (aneurysm) or tear in abdominal aorta,157.0,1,157.0
+76800,Ultrasound of spinal canal,156.0,6,26.0
+22103,"Partial removal of bone at back of spine, each additional segment",156.0,1,156.0
+87635,Amplifed dna or rna probe detection of severe acute respiratory syndrome coronavirus 2 (covid-19) antigen,156.0,2,78.0
+36215,Insertion of catheter into chest or arm artery,155.0,6,25.83
+90662,Vaccine for influenza for injection into muscle,155.0,4,38.75
+63001,Partial removal of bone with release of spinal cord or spinal nerves,154.0,7,22.0
+99458,"Management using the results of remote vital sign monitoring per calendar month, each additional 20 minutes",154.0,3,51.33
+82205,Barbiturates level,153.0,1,153.0
+38221,Needle or trocar bone marrow biopsy,153.0,1,153.0
+77418,Intensity modulated radiation treatment delivery,153.0,2,76.5
+83992,PCP drug level,152.0,1,152.0
+61750,"Stereotactic biopsy, aspiration, or excision of brain lesion",151.0,9,16.78
+73522,"X-ray of both hips with pelvis, 3-4 views",151.0,8,18.88
+73140,"X-ray of fingers, minimum of 2 views",150.0,1,150.0
+82575,Creatinine clearance measurement to test for kidney function,150.0,1,150.0
+96138,"Psychological or neuropsychological test administration and scoring by technician, first 30 minutes",150.0,3,50.0
+0012A,Adm sarscov2 100mcg/0.5ml2nd,148.0,3,49.33
+95907,"Nerve transmission studies, 1-2 studies",148.0,2,74.0
+64727,Release of nerve requiring use of operating microscope,147.0,4,36.75
+70557,"MRI scan of brain, during open brain procedure",147.0,2,73.5
+G2065,"Comprehensive care management for a single high-risk disease services, e.g. principal care management, at least 30 minutes of clinical staff time directed by a physician or other qualified health care professional, per calendar month with the following ele",147.0,1,147.0
+99491,"Chronic care management services by qualified health care professional, 30 minutes or more per calendar month",145.0,1,145.0
+72240,Radiological supervision and interpretation X-ray of upper spinal canal,145.0,5,29.0
+14020,"Repair of wound of scalp, arms, or legs by transferring skin, 10.0 sq cm or less",145.0,1,145.0
+64575,Incision to implant peripheral nerve neurostimulator electrodes,144.0,3,48.0
+99217,Hospital observation care discharge,143.0,7,20.43
+70373,Radiological supervision and interpretation X-ray of voice box,142.0,1,142.0
+J2785,"Injection, regadenoson, 0. 1 mg",142.0,1,142.0
+63087,Partial or complete removal of middle or lower spine bone with release of spinal cord or nerves,142.0,3,47.33
+J3475,"Injection, magnesium sulfate, per 500 mg",142.0,1,142.0
+15733,Creation of flap graft to head and/or neck,142.0,3,47.33
+62142,Removal of bone flap or prosthesis from skull,141.0,3,47.0
+G6015,"Intensity modulated treatment delivery, single or multiple fields/arcs,via narrow spatially and temporally modulated beams, binary, dynamic mlc, per treatment session",139.0,1,139.0
+J1200,"Injection, diphenhydramine hcl, up to 50 mg",139.0,3,46.33
+22110,Partial removal of spine bone and growth at upper spinal column,136.0,1,136.0
+15732,Muscle flap wound repair at head and neck,136.0,3,45.33
+73520,X-ray of hip minimum 2 views,135.0,5,27.0
+61635,Insertion of stents in blood vessel of head,133.0,2,66.5
+22855,Removal of anterior spinal instrumentation,133.0,7,19.0
+G0425,"Telehealth consultation, emergency department or initial inpatient, typically 30 minutes communicating with the patient via telehealth",133.0,4,33.25
+36482,"Chemical destruction of incompetent vein of arm or leg, accessed through the skin using imaging guidance",132.0,1,132.0
+62305,X-ray of lower spinal canal with radiological supervision and interpretation,132.0,4,33.0
+Q2036,"Influenza virus vaccine, split virus, when administered to individuals 3 years of age and older, for intramuscular use (flulaval)",132.0,1,132.0
+77290,"Management of radiation therapy, simulation, complex",131.0,1,131.0
+G0426,"Telehealth consultation, emergency department or initial inpatient, typically 50 minutes communicating with the patient via telehealth",129.0,5,25.8
+22315,Closed treatment of broken and/or dislocated spine bones with casting and/or bracing with manipulation,129.0,3,43.0
+G2010,"Remote evaluation of recorded video and/or images submitted by an established patient (e.g., store and forward), including interpretation with follow-up with the patient within 24 business hours, not originating from a related e/m service provided within t",127.0,5,25.4
+97002,Physical therapy re-evaluation,126.0,4,31.5
+73700,CT scan leg,125.0,4,31.25
+70015,Imaging of brain and spinal cord,124.0,1,124.0
+97116,"Walking training to 1 or more areas, each 15 minutes",124.0,1,124.0
+73130,"X-ray of hand, minimum of 3 views",123.0,2,61.5
+96101,Psychological testing with interpretation and report by psychologist or physician per hour,122.0,3,40.67
+72081,"X-ray of entire middle and lower spine, 1 view",121.0,3,40.33
+38206,Collection of stem cells for transplantation,119.0,2,59.5
+64590,Insertion of peripheral or gastric neurostimulator generator,119.0,5,23.8
+11981,Insertion of drug delivery implant into tissue,119.0,2,59.5
+77263,"Management of radiation therapy, complex",118.0,1,118.0
+97016,Application of blood vessel compression or decompression device to 1 or more areas,118.0,2,59.0
+G2058,"Chronic care management services, each additional 20 minutes of clinical staff time directed by a physician or other qualified health care professional, per calendar month (list separately in addition to code for primary procedure). (do not report g2058 fo",118.0,2,59.0
+22327,Open treatment of broken and/or dislocated middle spine bones,117.0,3,39.0
+86328,"Test for detection of severe acute respiratory syndrome coronavirus 2 (covid-19) antibody, qualitative or semiquantitative",117.0,1,117.0
+22808,"Fusion of spine bones for correction of deformity, anterior approach, 2 to 3 vertebral segments",116.0,2,58.0
+61626,"Occlusion of head or neck artery, accessed through the skin",116.0,4,29.0
+96120,Neuropsychological testing by a computer with interpretation and report by a qualified healthcare professional,116.0,1,116.0
+95976,"Electronic analysis of implanted brain, spinal cord or peripheral stimulation device with simple cranial nerve stimulator programming",116.0,5,23.2
+99449,"Telephone or internet assessment and management service provided by consultative physician, 31 minutes or more of medical consultative discussion and review",116.0,5,23.2
+92082,Measurement of field of vision during daylight conditions,115.0,1,115.0
+95714,"Measurement of brain wave activity with video (veeg), 12-26 hours",115.0,1,115.0
+90791,Psychiatric diagnostic evaluation,115.0,1,115.0
+77077,"Imaging of 2 or more joints, single view",114.0,1,114.0
+62327,Insertion of indwelling catheter and administration of substance into spinal canal of lower back lower back using imaging guidance,114.0,2,57.0
+A9500,"Technetium tc-99m sestamibi, diagnostic, per study dose",114.0,1,114.0
+78300,Bone and joint imaging,114.0,1,114.0
+73523,"X-ray of both hips with pelvis, minimum of 5 views",113.0,2,56.5
+71260,Ct scan of chest with contrast,113.0,1,113.0
+64415,"Injection of anesthetic agent, brachial (arm) nerve bundle",113.0,1,113.0
+95990,Refilling and maintenance of implantable spinal or brain drug delivery pump or reservoir,111.0,3,37.0
+61313,Aspiration of blood accumulation in brain,111.0,3,37.0
+76506,Ultrasound of brain,111.0,1,111.0
+22102,Removal of rear piece of lower spine bone,111.0,2,55.5
+92545,Assessment and recording of abnormal eye movement while tracking moving object,110.0,3,36.67
+L8683,Radiofrequency transmitter (external) for use with implantable neurostimulator radiofrequency receiver,109.0,3,36.33
+95930,Measurement of nerve conduction using visual stimulation testing with report,108.0,1,108.0
+93976,"Ultrasound limited scan of abdominal, pelvic, scrotal or abdominal cavity arterial inflow and venous outflow",107.0,2,53.5
+94640,Respiratory inhaled pressure or nonpressure treatment to relieve airway obstruction or for sputum specimen,106.0,2,53.0
+76380,CT scan limited or follow-up study,106.0,4,26.5
+15750,Creation of nerve and blood vessel skin graft,106.0,2,53.0
+20680,Removal of deep bone implant,105.0,3,35.0
+88342,Tissue or cell analysis by immunologic technique,104.0,1,104.0
+22326,Surgical treatment of broken or dislocated lower spine bone,103.0,7,14.71
+92541,Observation and recording of abnormal eye movement,102.0,3,34.0
+0217T,Injection of lower or sacral spine joint or nerve using ultrasound guidance,100.0,1,100.0
+73725,MRA scan of leg blood vessels,99.0,1,99.0
+64614,Injection of chemical for destruction of arms legs and/or torso muscles,99.0,2,49.5
+0216T,Injection of lower or sacral spine joint or nerve using ultrasound guidance,99.0,1,99.0
+76125,Imaging of organ,99.0,1,99.0
+63664,Revision and replacement of spinal neurostimulator electrodes,98.0,4,24.5
+93660,Evaluation of heart function using tilt table,97.0,1,97.0
+73565,"X-ray of both knees, standing, front to back view",97.0,3,32.33
+62329,Removal of cerebrospinal fluid with lower back spinal tap using imaging guidance,97.0,3,32.33
+63277,Removal or biopsy of lower spine bone growth,96.0,4,24.0
+17003,"Destruction of precancer skin growth, 2-14 growths",95.0,1,95.0
+36012,Insertion of catheter into vein,94.0,1,94.0
+96130,"Psychological testing evaluation by qualified health care professional, first 60 minutes",94.0,2,47.0
+63268,Removal of growth of sacral spine bone outside spine membrane,93.0,2,46.5
+22858,Insertion of artificial upper spine disc anterior approach,92.0,3,30.67
+J7620,"Albuterol, up to 2. 5 mg and ipratropium bromide, up to 0. 5 mg, fda-approved final product, non-compounded, administered through dme",91.0,1,91.0
+70559,"MRI scan of brain, during open brain procedure before and after contrast",91.0,3,30.33
+99484,"Care management services for behavioral health conditions, 20 minutes or more clinical staff time directed by health care professional",91.0,3,30.33
+0218T,Injection of lower or sacral spine joint or nerve using imaging guidance,91.0,1,91.0
+95868,Needle measurement and recording of electrical activity of cranial nerve-supplied muscles on both sides of body,91.0,4,22.75
+92544,Complex eye movement test while viewing objects in visual field,90.0,2,45.0
+62146,Reconstruction and (up to 5 centimeter in diameter) graft of skull bone defect,90.0,2,45.0
+95867,Needle measurement and recording of electrical activity of cranial nerve-supplied muscles on one side of body,90.0,2,45.0
+51784,Non-needle measurement and recording of electrical activity of muscles at bladder and bowel openings,89.0,2,44.5
+61680,Repair of abnormal artery-vein connection in brain,88.0,1,88.0
+95827,"Measurement and recording of brain wave (EEG) activity, overnight",87.0,1,87.0
+84443,"Blood test, thyroid stimulating hormone (TSH)",87.0,3,29.0
+62280,Injection of substance into spinal canal to destroy nerve tissue,86.0,2,43.0
+84403,Testosterone (hormone) level,86.0,2,43.0
+21172,Repair of bony defect of forehead and eye bones,85.0,1,85.0
+78452,Nuclear medicine study of vessels of heart using drugs or exercise multiple studies,84.0,1,84.0
+J2800,"Injection, methocarbamol, up to 10 ml",84.0,1,84.0
+J2550,"Injection, promethazine hcl, up to 50 mg",82.0,1,82.0
+92060,Measurement of eye muscles to detect deviation of eyeball,82.0,1,82.0
+95700,"Measurement of brain wave activity (eeg), continuous",82.0,1,82.0
+L8679,"Implantable neurostimulator, pulse generator, any type",81.0,1,81.0
+63088,"Removal of middle or lower spine bone with release of spinal cord or nerves, combined thoracolumbar approach",80.0,2,40.0
+13102,Repair of wound of trunk,80.0,1,80.0
+G0500,"Moderate sedation services provided by the same physician or other qualified health care professional performing a gastrointestinal endoscopic service that sedation supports, requiring the presence of an independent trained observer to assist in the monito",79.0,2,39.5
+99415,"Extended office or other outpatient service by clinical staff, first hour",79.0,1,79.0
+70030,X-ray of eye,78.0,2,39.0
+20250,"Biopsy of spine bone at middle spinal column, open procedure",77.0,1,77.0
+95905,Needle measurement and recording of movement and feeling with interpretation and report,77.0,2,38.5
+85390,Coagulation function screening test with interpretation and report,76.0,1,76.0
+61020,"Aspiration of spinal fluid for diagnosis from skull soft spot, burr hole, or catheter in brain",76.0,2,38.0
+72149,MRI scan of lower spinal canal with contrast,76.0,1,76.0
+63663,Revision and replacement of spinal neurostimulator electrodes,76.0,2,38.0
+99316,"Nursing facility discharge management, more than 30 minutes",75.0,1,75.0
+J2175,"Injection, meperidine hydrochloride, per 100 mg",75.0,1,75.0
+85610,"Blood test, clotting time",74.0,3,24.67
+93926,Ultrasound limited or study of arteries and arterial grafts of legs,74.0,2,37.0
+82607,Cyanocobalamin (vitamin B-12) level,74.0,2,37.0
+62365,Removal of spinal canal drug infusion pump or device,73.0,2,36.5
+70547,MRA scan of neck blood vessels,73.0,1,73.0
+61304,Exploration of the brain,72.0,1,72.0
+73503,"X-ray of hip with pelvis, minimum of 4 views",72.0,2,36.0
+21925,Biopsy of tissue of back or flank,71.0,2,35.5
+86077,Blood bank physician services for cross-match evaluation and written report,71.0,1,71.0
+97022,Application of whirlpool therapy,71.0,2,35.5
+64451,Injection of anesthetic agent and/or steroid into spine and pelvis nerve using imaging guidance,69.0,3,23.0
+G0009,Administration of pneumococcal vaccine,69.0,3,23.0
+99156,"Moderate sedation services by physician not performing a procedure, patient 5 years of age or older, first 15 minutes",69.0,2,34.5
+G0396,"Alcohol and/or substance (other than tobacco) misuse structured assessment (e.g., audit, dast), and brief intervention 15 to 30 minutes",69.0,1,69.0
+99236,"Hospital observation or inpatient care high severity, 55 minutes per day",68.0,3,22.67
+88305,"Pathology examination of tissue using a microscope, intermediate complexity",67.0,1,67.0
+22522,Injection of cement into additional body of lower spine bone,67.0,3,22.33
+22810,"Fusion of spine bones for correction of deformity, anterior approach, 4 to 7 vertebral segments",67.0,1,67.0
+99091,"Collection and interpretation of physical parameters stored in computers and/or transmitted by the patient and/or caregiver to qualified health care professional, requiring 30 minutes or more, per 30 days",66.0,2,33.0
+96119,Neuropsychological testing by technician with interpretation and report by a qualified healthcare professional per hour,66.0,1,66.0
+13160,Second repair of surgical wound,66.0,2,33.0
+92250,Photography of the retina,65.0,1,65.0
+22116,Partial removal of spine bone and growth in spinal column,65.0,1,65.0
+J7120,"Ringers lactate infusion, up to 1000 cc",65.0,1,65.0
+11101,"Biopsy of each additional growth of skin, tissue, or mouth",63.0,1,63.0
+84270,Sex hormone binding globulin (protein) level,63.0,1,63.0
+11100,"Biopsy of single growth of skin, tissue, or mouth",63.0,1,63.0
+15260,"Full thickness skin graft to nose, ears, eyelids, or lips, 20.0 sq cm or less",62.0,1,62.0
+64568,Implantation of cranial nerve neurostimulator electrodes and generator,62.0,5,12.4
+95887,Needle measurement and recording of electrical activity of head or trunk muscles,62.0,1,62.0
+75870,Radiological supervision and interpretation of imaging of vein system of head,62.0,1,62.0
+61581,Removal of nasal sinuses to approach brain lesion with the removal of the maxilla or eyeball,62.0,1,62.0
+84439,Thyroxine (thyroid chemical) measurement,60.0,1,60.0
+76857,Limited ultrasound scan of pelvis,60.0,1,60.0
+62147,Reconstruction and (larger than 5 centimeter in diameter) graft of skull bone defect,60.0,3,20.0
+84481,"Thyroid hormone, T3 measurement",60.0,1,60.0
+34707,Placement of graft for repair of groin artery including radiological supervision and interpretation,60.0,1,60.0
+G0452,Molecular pathology procedure; physician interpretation and report,59.0,2,29.5
+82533,Cortisol (hormone) measurement,59.0,1,59.0
+91122,Study of anorectal pressure generated by muscles surrounding anus (sphincter),58.0,2,29.0
+21932,Removal (less than 5 centimeters) muscle growth of back or flank,58.0,1,58.0
+72197,Mri scan of pelvis before and after contrast,58.0,2,29.0
+95865,Needle measurement and recording of electrical activity of muscles of voice box,58.0,1,58.0
+96360,Hydration infusion into a vein 31 minutes to 1 hour,57.0,1,57.0
+96160,Administration and interpretation of patient-focused health risk assessment,57.0,1,57.0
+0241U,Nfct ds vir resp rna 4 trgt,57.0,3,19.0
+93307,"Ultrasound examination of heart including color-depicted blood flow rate, direction, and valve function",57.0,1,57.0
+97165,"Evaluation for occupational therapy, typically 30 minutes",56.0,1,56.0
+73500,"X-ray of hip on one side of body, 1 view",56.0,1,56.0
+22870,Insertion of stabilizing or separating device into lower spine at second level,56.0,1,56.0
+96156,"Health behavior assessment, or re-assessment",56.0,1,56.0
+92240,Examination of eye using an endoscope,55.0,2,27.5
+63709,Repair of spinal fluid leak,54.0,3,18.0
+97164,"Re-evaluation of physical therapy, typically 20 minutes",54.0,3,18.0
+22595,"Fusion of spine bones at skull base, posterior approach",53.0,3,17.67
+90732,"Vaccine for pneumococcal polysaccharide for injection beneath the skin or into muscle, patient 2 years or older",53.0,2,26.5
+92511,Examination of the nose and throat using an endoscope,53.0,1,53.0
+72074,"X-ray of middle spine, minimum of 4 views",52.0,3,17.33
+70491,Ct scan of neck with contrast,52.0,1,52.0
+63266,Removal of growth of middle spine bone outside spine membrane,52.0,1,52.0
+62161,Release of brain scar tissue or cyst drainage using an endoscope,52.0,2,26.0
+99334,"Established patient custodial care facility, group care, or assisted living visit, typically 15 minutes",52.0,1,52.0
+92134,Diagnostic imaging of retina,51.0,1,51.0
+61026,"Aspiration of spinal fluid and injection into skull soft spot, burr hole, or catheter in ventricle of brain",51.0,3,17.0
+38232,Harvest of patient bone marrow for transplantation,51.0,2,25.5
+62201,Stereotactic creation of spinal fluid drainage tract in the brain using an endoscope,51.0,2,25.5
+61791,Stereotactic creation of brainstem lesion,50.0,1,50.0
+Q4206,"Fluid flow or fluid gf, 1 cc",50.0,1,50.0
+J3360,"Injection, diazepam, up to 5 mg",50.0,1,50.0
+64644,"Injection of chemical for paralysis of nerve muscles on arm or leg, 5 or more muscles, first extremity",50.0,2,25.0
+36200,Insertion of catheter into aorta,49.0,3,16.33
+63040,Re-exploration of spine repair with release of upper spinal cord or nerves,49.0,1,49.0
+99421,"Online digital evaluation and management service, for an established patient, for up to 7 days, cumulative time during the 7 days; 5-10 minutes",48.0,2,24.0
+63741,"Creation of spinal fluid shunt, accessed through the skin",48.0,3,16.0
+73080,"X-ray of elbow, minimum of 3 views",48.0,1,48.0
+13132,"Complicated repair of wound of forehead, cheeks, chin, mouth, neck, underarms, genitals, hands, or feet, 2.6-7.5 cm",47.0,1,47.0
+63200,Removal of lower spine bone with release of frayed spinal cord,47.0,2,23.5
+27369,Injection of contrast for imaging of knee joint,47.0,1,47.0
+63272,Removal of lower spine bone and growth,47.0,2,23.5
+15220,"Full thickness skin graft to scalp, arms, or legs, 20.0 sq cm or less",47.0,1,47.0
+99335,"Established patient custodial care facility, group care, or assisted living visit, typically 25 minutes",46.0,1,46.0
+63265,Removal of upper spine bone and growth,46.0,1,46.0
+85730,Coagulation assessment blood test,46.0,2,23.0
+81025,Urine pregnancy test,46.0,1,46.0
+98966,"Telephone medical discussion provided by nonphysician professional, 5-10 minutes",45.0,1,45.0
+99342,"New patient home visit, typically 30 minutes",45.0,1,45.0
+76641,Ultrasound of one breast,44.0,1,44.0
+63101,"Removal of middle spine bone with release of spinal cord and/or nerves, lateral extracavitary approach",44.0,4,11.0
+62287,"Aspiration of lower spine disc, accessed through the skin",43.0,1,43.0
+99157,"Moderate sedation services by physician not performing a procedure, each additional 15 minutes",43.0,1,43.0
+73070,"X-ray of elbow, 2 views",42.0,1,42.0
+63308,Removal of spine bone growth,41.0,1,41.0
+G0297,Low dose ct scan (ldct) for lung cancer screening,41.0,1,41.0
+22210,Incision of spine to correct deformity at upper spinal column,41.0,2,20.5
+77052,Computer analysis of screening mammogram to assist detection of cancer,41.0,1,41.0
+64510,"Injection of anesthetic agent, sympathetic nerve bundle",40.0,1,40.0
+61108,Aspiration or drainage of blood accumulation in brain,40.0,2,20.0
+97607,"Therapy procedure using a special bandage, vacuum pump and disposable medical equipment, surface area 50.0 sq cm or less",38.0,1,38.0
+95869,Needle measurement of electrical activity in middle spine muscles,38.0,1,38.0
+11960,Insertion of tissue expanders,37.0,1,37.0
+61596,Removal of skull bone behind ear to approach brain lesion,37.0,1,37.0
+95722,"Continuous measurement of brain wave activity with video (veeg), 37-60 hours, with health care professional analysis, interpretation and report",36.0,1,36.0
+88333,Pathology examination of tissue specimen during surgery,36.0,1,36.0
+90686,Vaccine for influenza administered into muscle to individuals 3 years of age and older,36.0,2,18.0
+70554,Functional MRI scan of brain,35.0,1,35.0
+G0206,"Diagnostic mammography, producing direct digital image, unilateral, all views",35.0,1,35.0
+77413,"Radiation treatment delivery, three or more treatment areas",35.0,1,35.0
+61520,Removal of bone from skull for removal of eighth cranial nerve brain tumor,34.0,2,17.0
+31288,Removal of nasal sinus tissue using an endoscope,34.0,1,34.0
+99344,"New patient home visit, typically 60 minutes",34.0,2,17.0
+93308,Follow-up or limited ultrasound examination of heart,34.0,1,34.0
+64628,"Heat destruction of intraosseous basivertebral nerve in bones of spine in lower back, first two bones",33.0,2,16.5
+52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,33.0,1,33.0
+72220,"X-ray of pelvis, minimum of 2 views",33.0,2,16.5
+96366,"Infusion into a vein for therapy, prevention, or diagnosis",33.0,1,33.0
+96361,Hydration infusion into a vein,33.0,1,33.0
+64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,33.0,2,16.5
+92586,"Placement of scalp electrodes for assessment and recording of responses from several areas of the nerve-brain hearing system, infant",32.0,1,32.0
+00630,Anesthesia for procedure on lower spine,32.0,1,32.0
+17000,"Destruction of precancer skin growth, 1 growth",32.0,1,32.0
+70486,Ct scan of face without contrast,32.0,1,32.0
+64910,Repair of nerve with graft,31.0,1,31.0
+76645,Ultrasound of breasts,31.0,1,31.0
+22505,Manipulation of spine under anesthesia,30.0,1,30.0
+99359,Prolonged patient service without direct patient contact each 30 minutes beyond first hour,30.0,1,30.0
+77321,Radiation therapy total body port plan,29.0,1,29.0
+11102,"Biopsy of related skin growth, first growth",29.0,1,29.0
+99336,"Established patient custodial care facility, group care, or assisted living visit, typically 40 minutes",29.0,1,29.0
+75736,Radiological supervision and interpretation of imaging of artery of pelvis,29.0,1,29.0
+72190,"X-ray of pelvis, minimum of 3 views",29.0,2,14.5
+14061,"Repair of wound of eyelids, nose, ears, or lips by transferring skin, 10.1-30.0 sq cm",29.0,1,29.0
+64647,"Injection of chemical for destruction of nerve muscles on trunk, 6 or more muscles",29.0,1,29.0
+88173,Evaluation of fine needle aspirate with interpretation and report,28.0,1,28.0
+99495,"Transitional care management services, moderately complexity, requiring face-to-face visits within 14 days of discharge",28.0,1,28.0
+43762,Replacement of stomach stoma tube accessed through skin,28.0,1,28.0
+15738,Muscle flap wound repair of leg,28.0,1,28.0
+86580,Skin test for tuberculosis,28.0,1,28.0
+31600,Opening of windpipe through neck for insertion of breathing tube,28.0,2,14.0
+Q9954,"Oral magnetic resonance contrast agent, per 100 ml",28.0,1,28.0
+82948,Blood glucose (sugar) measurement using reagent strip,28.0,1,28.0
+63295,Reconstruction of spine bone following spinal procedure,28.0,1,28.0
+61735,"Creation of brain lesion by stereotactic method, other than globus pallidus or thalamus",28.0,2,14.0
+88172,Evaluation of fine needle aspirate,28.0,1,28.0
+99489,Complex chronic care management services each additional 30 minutes clinical staff time,27.0,1,27.0
+0001A,Adm sarscov2 30mcg/0.3ml 1st,27.0,1,27.0
+22114,Partial removal of spine bone and growth at lower spinal column,27.0,1,27.0
+90656,"Vaccine for influenza injection into muscle, patient 3 years and older",27.0,1,27.0
+11047,"Removal of bone, each additional 20.0 sq cm or less",27.0,1,27.0
+49324,Insertion of abdominal cavity catheter using an endoscope,27.0,1,27.0
+0172T,Insertion of lower spine spinous process distraction device using imaging guidance,27.0,2,13.5
+22206,Incision or removal of segment of middle spine bone to correct deformity,27.0,1,27.0
+G0437,"Smoking and tobacco cessation counseling visit for the asymptomatic patient; intensive, greater than 10 minutes",26.0,2,13.0
+63016,Partial removal of bone with release of spinal cord or spinal nerves,26.0,1,26.0
+G0399,"Home sleep test (hst) with type iii portable monitor, unattended; minimum of 4 channels: 2 respiratory movement/airflow, 1 ecg/heart rate and 1 oxygen saturation",26.0,1,26.0
+33533,Heart artery bypass to repair one artery,26.0,1,26.0
+96374,"Injection of drug or substance into a vein for therapy, diagnosis, or prevention",25.0,2,12.5
+20985,Computer-assisted surgical navigational procedure for bone procedures,25.0,2,12.5
+63190,Removal of spine bone with severing of nerve roots,25.0,1,25.0
+82670,Estradiol (hormone) level,25.0,1,25.0
+73660,"X-ray of toes, minimum of 2 views",25.0,1,25.0
+22556,"Fusion of middle spine bones with removal of disc, anterior approach",25.0,2,12.5
+27324,"Biopsy of thigh or knee region tissue, deep",25.0,2,12.5
+22586,Fusion of spine bones with removal of disc at lower spinal column with posterior instrumentation and image guidance,25.0,1,25.0
+99452,"Telephone or internet referral service, 30 minutes",25.0,1,25.0
+94621,Test for exercise-induced heart and lung stress,24.0,2,12.0
+31051,Removal of nasal polyps,24.0,1,24.0
+93018,"Exercise or drug-induced heart and blood vessel stress test with ekg monitoring, physician interpretation and report",24.0,2,12.0
+76775,"Ultrasound behind abdominal cavity, limited",24.0,1,24.0
+63271,Removal of middle spine bone and growth,24.0,1,24.0
+27130,Replacement of thigh bone and hip joint prosthesis,24.0,1,24.0
+96139,"Psychological or neuropsychological test administration and scoring by technician, additional 30 minutes",24.0,1,24.0
+49425,Insertion of shunt from jugular vein to abdominal cavity,24.0,1,24.0
+83002,"Gonadotropin, luteinizing (reproductive hormone) level",24.0,1,24.0
+83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",24.0,1,24.0
+Q9960,"High osmolar contrast material, 200-249 mg/ml iodine concentration, per ml",23.0,1,23.0
+22532,"Fusion of middle spine bones with removal of disc, lateral approach",23.0,2,11.5
+22319,Open treatment of broken and/or dislocated upper spine bones with bone graft,22.0,2,11.0
+37236,"Insertion of intravascular stents in artery (except lower extremity, cervical carotid, extracranial vertebral or intrathoracic carotid, intracranial, or coronary), open or accessed through the skin, with radiological supervision and interpretation",22.0,1,22.0
+22590,"Fusion of first two upper spine bones of spinal column, posterior approach",22.0,2,11.0
+0213T,Injection of upper or middle spine joint or nerve using ultrasound guidance,22.0,1,22.0
+0214T,Injection of upper or middle spine joint or nerve using ultrasound guidance,22.0,1,22.0
+64565,"Implantation of muscular tissue neurostimulator electrodes, accessed through the skin",22.0,1,22.0
+01402,Anesthesia for total knee joint replacement,22.0,1,22.0
+75820,Radiological supervision and interpretation of imaging of vein of one arm or leg,22.0,1,22.0
+31294,Decompression of optic nerve using an endoscope,22.0,1,22.0
+10022,Fine needle aspiration using imaging guidance,22.0,1,22.0
+0334T,Sacroiliac joint stabilization for fusion,22.0,1,22.0
+82947,Blood glucose (sugar) level,21.0,1,21.0
+36005,Injection for X-ray imaging procedure on veins of arm or leg,21.0,1,21.0
+11103,"Biopsy of related skin growth, each additional growth",21.0,1,21.0
+95872,Needle measurement and recording electrical activity of muscles including jitter blocking and/or fiber density using single electrode,21.0,1,21.0
+64629,Heat destruction of intraosseous basivertebral nerve in additional bone of spine in lower back,20.0,1,20.0
+96450,Chemotherapy administration into spinal canal requiring spinal tap,20.0,1,20.0
+90688,"Vaccine for influenza for administration into muscle, 0.5 ml dosage",19.0,1,19.0
+73020,"X-ray of shoulder, 1 view",19.0,1,19.0
+77373,Stereotactic body radiation therapy 1 or more lesions using imaging guidance,19.0,1,19.0
+0031A,Adm sarscov2 vac ad26 .5ml,19.0,1,19.0
+64818,Removal of lower spine sympathetic nerves,18.0,1,18.0
+00790,Anesthesia for procedure in upper abdomen including use of an endoscope,18.0,1,18.0
+37185,"Removal of blood clot and injections to dissolve blood clot from artery or arterial graft using fluoroscopic guidance, accessed through the skin",18.0,1,18.0
+64550,Application of skin surface neurostimulator electrodes,18.0,1,18.0
+80069,Kidney function blood test panel,18.0,1,18.0
+95973,Electronic analysis and programming of implanted complex spinal cord or peripheral neurostimulator generator system during or after surgery,17.0,1,17.0
+61215,Insertion of device for continuous infusion in brain,17.0,1,17.0
+71270,CT scan chest before and after contrast,17.0,1,17.0
+20605,Aspiration and/or injection of medium joint or joint capsule,17.0,1,17.0
+76705,Ultrasound of abdomen,16.0,1,16.0
+97605,"Negative pressure wound therapy, surface area less than or equal to 50 square centimeters, per session",16.0,1,16.0
+0232T,Harvest and injections of platelet rich plasma using imaging guidance,16.0,1,16.0
+34900,Placement of graft for repair of groin artery,16.0,1,16.0
+20982,Destruction of 1 or more bone growths accessed through the skin,15.0,1,15.0
+37238,"Insertion of intravascular stents in vein, open or accessed through the skin, with radiological supervision and interpretation",15.0,1,15.0
+37211,Insertion of catheter into artery for drug infusion for blood clot including radiological supervision and interpretation,15.0,1,15.0
+61120,Injection into ventricle of brain,15.0,1,15.0
+21610,Removal of joint joining rib and spine bone,15.0,1,15.0
+52332,Insertion of stent in urinary duct (ureter) using an endoscope,15.0,1,15.0
+22015,"Drainage of abscess of lower spine or sacrum, open procedure",15.0,1,15.0
+64713,"Release of major nerve of arm or leg, open procedure",15.0,1,15.0
+26145,"Repair of tendon, finger and/or hand",15.0,1,15.0
+74170,CT scan abdomen before and after contrast,15.0,1,15.0
+51741,Electronic assessment of bladder emptying,14.0,1,14.0
+83036,Hemoglobin a1c level,14.0,1,14.0
+37250,Ultrasound evaluation of blood vessel during diagnosis or treatment,14.0,1,14.0
+97166,"Evaluation for occupational therapy, typically 45 minutes",14.0,1,14.0
+22305,Closed treatment of broken spine bones,14.0,1,14.0
+73222,Mri scan of arm joint with contrast,14.0,1,14.0
+82043,Urine microalbumin (protein) level,14.0,1,14.0
+51797,Insertion of device into the abdomen with measurement of pressure and urine flow rate,14.0,1,14.0
+G0204,"Diagnostic mammography, producing direct 2-d digital image, bilateral, all view",14.0,1,14.0
+75945,Initial ultrasound of blood vessel,14.0,1,14.0
+61343,Excision of skull base and upper spine to release spinal cord,14.0,1,14.0
+17110,"Destruction of skin growth, 1-14 growths",14.0,1,14.0
+62302,X-ray of upper spinal canal with radiological supervision and interpretation,13.0,1,13.0
+74181,MRI scan of abdomen,13.0,1,13.0
+64912,"Repair of nerve using nerve graft, first strand",13.0,1,13.0
+27146,Incision of pelvic bone,13.0,1,13.0
+G0461,"Immunohistochemistry or immunocytochemistry, per specimen; first single or multiplex antibody stain",13.0,1,13.0
+20920,Obtaining deep thigh tissue for graft using stripper,13.0,1,13.0
+31291,Repair of leak of brain and spinal fluid from sinus behind eyes using endoscope,13.0,1,13.0
+93978,Ultrasound scan of vena cava or groin graft or vessel blood flow,13.0,1,13.0
+61316,Insertion of bone graft onto skull,13.0,1,13.0
+49427,Injection for X-ray study of shunt from jugular vein to abdominal cavity,13.0,1,13.0
+82306,Vitamin D-3 level,13.0,1,13.0
+15110,"Skin graft at trunk, arms, or legs (first 100 sq cm or less, or 1% body area of infants and children)",13.0,1,13.0
+62360,Implantation or replacement of spinal canal drug infusion device,12.0,1,12.0
+71271,Low dose ct scan of chest for lung cancer screening,12.0,1,12.0
+10140,Drainage of blood or fluid accumulation,12.0,1,12.0
+73501,"X-ray of hip, 1 view",12.0,1,12.0
+95967,Measurement and recording of externally evoked brain processing function using magnetic fields,12.0,1,12.0
+95966,Measurement and recording of externally evoked brain processing function using magnetic fields,12.0,1,12.0
+22804,"Fusion of spine bones for correction of deformity, posterior approach, 13 or more vertebral segments",12.0,1,12.0
+24305,Lengthening of tendon of upper arm or elbow,12.0,1,12.0
+26025,Drainage of fluid-filled sac (bursa) of palm,12.0,1,12.0
+37609,Tying or biopsy of temporal artery (side of skull),12.0,1,12.0
+36558,"Insertion of central venous catheter for infusion, patient 5 years or older",12.0,1,12.0
+98967,"Telephone assessment and management service, 11-20 minutes of medical discussion",12.0,1,12.0
+27614,Biopsy of tissue or muscle of lower leg or ankle,12.0,1,12.0
+64520,"Injection of anesthetic agent, middle or lower spine sympathetic nerves",12.0,1,12.0
+30435,Revision to reshape nasal bones after previous repair,12.0,1,12.0
+15002,"Preparation of graft site at trunk, arms, or legs (first 100 sq cm or 1% body area infants and children)",12.0,1,12.0
+30560,Release of nasal scar tissue,12.0,1,12.0
+31254,Partial removal of nasal sinus using an endoscope,12.0,1,12.0
+37187,Removal of blood clot and injections (accessed through the skin) to dissolve blood clot from veins using fluoroscopic guidance,12.0,1,12.0
+93246,Heart rhythm recording of continous external ekg over 8-15 days,12.0,1,12.0
+90792,Psychiatric diagnostic evaluation with medical services,12.0,1,12.0
+63185,Removal of spine bone with severing of nerve roots,12.0,1,12.0
+99355,Prolonged office or other outpatient service each 30 minutes beyond first hour,12.0,1,12.0
+U0003,"Infectious agent detection by nucleic acid (dna or rna); severe acute respiratory syndrome coronavirus 2 (sars-cov-2) (coronavirus disease [covid-19]), amplified probe technique, making use of high throughput technologies as described by cms-2020-01-r",11.0,1,11.0
+61518,Removal of brain tumor,11.0,1,11.0
+22101,Partial removal of spine bone and growth at middle spinal column,11.0,1,11.0
+30140,Removal of nasal air passage under lining tissue,11.0,1,11.0
+94729,Measurement of lung diffusing capacity,11.0,1,11.0
+94727,Determination of lung volumes using gas dilution or washout,11.0,1,11.0
+94375,Diagnostic testing in a pulmonary function lab,11.0,1,11.0
+90714,"Vaccine for tetanus and diphtheria toxoids injection into muscle, patient 7 years or older",11.0,1,11.0
+87880,"Strep test (Streptococcus, group A)",11.0,1,11.0
+85652,"Red blood cell sedimentation rate, to detect inflammation",11.0,1,11.0
+85014,Red blood cell concentration measurement,11.0,1,11.0
+77051,Computer analysis of diagnostic mammogram,11.0,1,11.0
+76831,Ultrasound of uterus,11.0,1,11.0
+74020,Imaging of abdomen,11.0,1,11.0
+71275,Ct scan of blood vessels of chest with contrast,11.0,1,11.0
+71101,"X-ray of ribs on one side of body including the chest, minimum of 3 views",11.0,1,11.0
+71047,"X-ray of chest, 3 views",11.0,1,11.0
+69210,Removal of impacted ear wax,11.0,1,11.0
+63304,Removal of upper spine bone growth,11.0,1,11.0
+62200,Creation of brain fluid drainage shunt,11.0,1,11.0
+61600,Removal of lesion at skull base,11.0,1,11.0
+58340,Introduction of saline or X-ray contrast material for X-ray imaging of the uterus and tubes,11.0,1,11.0
+51702,Insertion of indwelling bladder catheter,11.0,1,11.0
+J0360,"Injection, hydralazine hcl, up to 20 mg",11.0,1,11.0
+30520,Reshaping of nasal cartilage,11.0,1,11.0
+U0005,"Infectious agent detection by nucleic acid (dna or rna); severe acute respiratory syndrome coronavirus 2 (sars-cov-2) (coronavirus disease [covid-19]), amplified probe technique, cdc or non-cdc, making use of high throughput technologies, completed within",11.0,1,11.0

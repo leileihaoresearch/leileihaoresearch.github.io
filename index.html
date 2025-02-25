@@ -50,7 +50,7 @@
                         </nav></div>
             </div>
         </div>
-        <div class="tm-section tm-bg-img" id="tm-section-1">
+        <div class="tm-section tm-bg-img" id="tm-section-1" style="height: 462px;margin-bottom: 0px;">
             <div class="tm-bg-white ie-container-width-fix-2">
                 <div class="container ie-h-align-center-fix">
                     <div class="row" style="height: 162.195px;"><div class="col-xs-12 ml-auto mr-auto ie-container-width-fix">
@@ -74,33 +74,35 @@
                                     <button type="submit" class="btn btn-primary tm-btn-search"
                                             id="getInsightsButton">Get Insights</button>
                                 </div>
-                            </div>
-                        <div class="col" style="margin: 0;margin-top: 49px;display: block;">
-                            <div class="table-responsive" id="zipResult" style="padding: 0px;display: none;background: var(--white);">
-                                <table class="table">
-                                    <thead>
-                                        <tr>
-                                            <th>Column 1</th>
-                                            <th>Column 2</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody>
-                                        <tr>
-                                            <td>Cell 1</td>
-                                            <td>Cell 2</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Cell 3</td>
-                                            <td>Cell 4</td>
-                                        </tr>
-                                    </tbody>
-                                </table>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col d-none" id="surgeonResult"></div>
-                    </div>
+                            </div></div>
+                </div>
+            </div>
+        </div>
+        <div id="expandedSection" class="tm-section-2" style="height: 1200px;background: var(--white);display: none;margin-bottom: 50px;">
+            <h4 style="margin-bottom: 26px;margin-left: 10px;">Search results</h4>
+            <div class="col" style="margin: 0;display: block;">
+                <div class="table-responsive" id="resultsTable" style="padding: 0px;display: block;background: var(--white);width: 100%;">
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th>Column 1</th>
+                                <th>Column 2</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Cell 1</td>
+                                <td>Cell 2</td>
+                            </tr>
+                            <tr>
+                                <td>Cell 3</td>
+                                <td>Cell 4</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div style="position: relative;height: 50px;">
+                    <div id="pagination" class="bottom-0 left-0" style="position: absolute;height: 40px;"></div>
                 </div>
             </div>
         </div>
@@ -109,7 +111,7 @@
                 <div class="row">
                     <div class="col text-center">
                         <h2 class="tm-section-title">Find the Right Surgeon, Backed by Data.</h2>
-                        <p class="tm-color-white tm-section-subtitle">We are here to help.</p><a href="#" class="tm-color-white tm-btn-white-bordered">Learn More</a>
+                        <p class="tm-color-white tm-section-subtitle">We are here to help.</p><a href="#" class="tm-color-white tm-btn-white-bordered" style="margin: 0px;margin-bottom: 30px;">Learn More</a>
                     </div>
                 </div>
             </div>
@@ -414,8 +416,10 @@
     <script src="assets/js/js/datepicker.min.js"></script>
     <script src="assets/js/js/jquery.singlePageNav.min.js"></script>
     <script src="assets/js/slick/slick.min.js"></script>
-    <script src="assets/js/js/find_by_zip.js"></script>
-    <script src="assets/js/js/find_surgeon.js"></script>
+    <script src="assets/js/js/display_results.js"></script>
+    <script src="assets/js/js/fetch_by_surgeon.js"></script>
+    <script src="assets/js/js/fetch_by_zip.js"></script>
+    <script src="assets/js/js/listener.js"></script>
 </body>
 
 </html>

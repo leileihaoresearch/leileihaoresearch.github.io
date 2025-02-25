@@ -1,11 +1,11 @@
 const inputZip = document.getElementById('inputZip')
-const getInsightsButton = document.getElementById('getInsightsButton')
 const zipResult = document.getElementById('zipResult')
 
 function fetchZipResults() {
     const zip = inputZip.value;
+    surgeonResult.classList.add('d-none');
     if (!/^\d{5}$/.test(zip)) {
-        zipResult.style.display = 'block'
+        zipResult.style.display = 'block';
         zipResult.innerHTML = '<p>Please enter a valid 5-digit ZIP code.</p>';
         return;
     }
@@ -20,14 +20,14 @@ function fetchZipResults() {
             // Process the data returned from the PHP script
             const data = JSON.parse(this.responseText);
             if (data.error) {
-                zipResult.style.display = 'block'
+                zipResult.style.display = 'block';
                 zipResult.innerHTML = `<p>${data.error}</p>`;
             } else {
                 displayZipResults(data);
             }
         } else {
             console.error("Error: " + this.status);
-            zipResult.style.display = 'block'
+            zipResult.style.display = 'block';
             zipResult.innerHTML = "<p>Error fetching data.</p>";
             }
       };
@@ -127,12 +127,3 @@ inputZip.addEventListener('keyup', function(event) {
         fetchZipResults();
     }
 });
-    
-if(getInsightsButton){
-    if (inputZip.value) {
-        getInsightsButton.addEventListener('click', function() {
-        console.log('User clicked get insights button. Input:', inputZip.value);
-        fetchZipResults();
-        });   
-    }
- }

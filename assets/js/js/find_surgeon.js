@@ -10,10 +10,10 @@ function fetchSurgeonResults() {
     xhr.open('GET', 'php/find_surgeon.php?search=' + encodeURIComponent(npi), true);
 
     xhr.onload = function() {
+    zipResult.style.display = 'none';
     if (this.status == 200) {
         // Process the data returned from the PHP script
         var data = JSON.parse(this.responseText);
-        
         surgeonResult.classList.remove('d-none');
         surgeonResult.innerHTML = '';
         data.forEach(function(item) {
@@ -42,11 +42,18 @@ inputSurgeon.addEventListener('keyup', function(event) {
     }
 });
     
-if(getInsightsButton){
-    if (inputSurgeon.value) {
-        getInsightsButton.addEventListener('click', function() {
-        console.log('User clicked get insights button. Input:', inputSurgeon.value);
-        fetchSurgeonResults();
-        });   
-    }
- }
+if (getInsightsButton) {
+    getInsightsButton.addEventListener('click', function() {
+        console.log("Button clicked.");
+        if (inputSurgeon.value.trim()) {
+            console.log('User entered surgeon. Input:', inputSurgeon.value);
+            fetchSurgeonResults();
+        } else if (inputZip.value.trim()) {
+            console.log('User entered ZIP. Input:', inputZip.value);
+            fetchZipResults();
+        } else {
+            console.log("Both inputs are empty.");
+            alert("Please enter a search info.");
+        }
+    });
+}

@@ -17,7 +17,7 @@ $searchNpi = isset($_GET['search']) ? $_GET['search'] : '';
 $searchNpi = mysqli_real_escape_string($conn, $searchNpi); // Or use prepared statements (recommended)
 
 // Construct the SQL query
-$sql = "SELECT * FROM npi_df WHERE `COL 1` LIKE '%" . $searchNpi . "%'";
+$sql = "SELECT * FROM npi_df_shortened WHERE `COL 1` LIKE '%" . $searchNpi . "%'";
 
 $result = $conn->query($sql);
 
