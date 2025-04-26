@@ -62,12 +62,23 @@
                                         </div>
                                         <div class="form-group tm-form-element tm-form-element-50">
                                             <i class="fa fa-2x fa-bed tm-form-element-icon"></i>
-                                            <input name="check-out" type="text" class="form-control" id="inputProcedure" placeholder="Search by procedure...">
+                                            <select class="form-control" id="inputType">
+                                                <option selected disabled>Select a surgical type</option>
+                                                <option value="cranial">Cranial</option>
+                                                <option value="spinal">Spinal</option>
+                                                <option value="endovascular">Endovascular</option>
+                                                <option value="peripheral">Peripheral</option>
+                                            </select>
                                         </div>
                                         <div class="form-group tm-form-element tm-form-element-100">
                                             <i class="fa fa-2x fa-user tm-form-element-icon"></i>
                                             <input name="city" type="text" class="form-control" id="inputSurgeon" placeholder="Search by surgeon...">
                                         </div>
+                                    </div>
+                                    <!-- Distance Slider -->
+                                    <div class="form-group tm-form-element tm-form-element-100">
+                                        <label for="distanceSlider">Search radius (miles): <span id="distanceValue">50</span> mi</label>
+                                        <input type="range" name="distance" id="distanceSlider" class="form-control" min="1" max="3000" value="50" step="1">
                                     </div>
                                 </form>
                                 <div class="form-group tm-form-element tm-form-element-2">
@@ -78,40 +89,42 @@
                 </div>
             </div>
         </div>
-        <div id="expandedSection" class="tm-section-2" style="height: 1200px;background: var(--white);display: none;margin-bottom: 50px;">
-            <h4 style="margin-bottom: 26px;margin-left: 10px;">Search results</h4>
-            <div class="col" style="margin: 0;display: block;">
-                <div class="table-responsive" id="resultsTable" style="padding: 0px;display: block;background: var(--white);width: 100%;">
-                    <table class="table">
-                        <thead>
-                            <tr>
-                                <th>Column 1</th>
-                                <th>Column 2</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <tr>
-                                <td>Cell 1</td>
-                                <td>Cell 2</td>
-                            </tr>
-                            <tr>
-                                <td>Cell 3</td>
-                                <td>Cell 4</td>
-                            </tr>
-                        </tbody>
-                    </table>
-                </div>
-                <div style="position: relative;height: 50px;">
-                    <div id="pagination" class="bottom-0 left-0" style="position: absolute;height: 40px;"></div>
+        <div style="display: flex;flex-direction: column;">
+            <div id="expanded-section" class="tm-section-2" style="background: var(--white);margin-bottom: 50px;height: 1200px;display: none;">
+                <h4 style="margin-bottom: 26px;margin-left: 10px;">Search results</h4>
+                <div class="col" style="margin: 0;display: block;">
+                    <div class="table-responsive" id="resultsTable" style="padding: 0px;display: block;background: var(--white);width: 100%;">
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th>Column 1</th>
+                                    <th>Column 2</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>Cell 1</td>
+                                    <td>Cell 2</td>
+                                </tr>
+                                <tr>
+                                    <td>Cell 3</td>
+                                    <td>Cell 4</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <div style="position: relative;height: 50px;">
+                        <div id="pagination" class="bottom-0 left-0" style="position: absolute;height: 40px;"></div>
+                    </div>
                 </div>
             </div>
-        </div>
-        <div class="tm-section-2">
-            <div class="container">
-                <div class="row">
-                    <div class="col text-center">
-                        <h2 class="tm-section-title">Find the Right Surgeon, Backed by Data.</h2>
-                        <p class="tm-color-white tm-section-subtitle">We are here to help.</p><a href="#" class="tm-color-white tm-btn-white-bordered" style="margin: 0px;margin-bottom: 30px;">Learn More</a>
+            <div id="red-banner-parent" class="tm-section-2">
+                <div class="container">
+                    <div class="row">
+                        <div class="col text-center">
+                            <h2 class="tm-section-title">Find the Right Surgeon, Backed by Data.</h2>
+                            <p class="tm-color-white tm-section-subtitle">We are here to help.</p><a href="#" class="tm-color-white tm-btn-white-bordered" style="margin: 0px;margin-bottom: 30px;">Learn More</a>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -417,8 +430,11 @@
     <script src="assets/js/js/jquery.singlePageNav.min.js"></script>
     <script src="assets/js/slick/slick.min.js"></script>
     <script src="assets/js/js/display_results.js"></script>
+    <script src="assets/js/js/distanceSlider.js"></script>
     <script src="assets/js/js/fetch_by_surgeon.js"></script>
+    <script src="assets/js/js/fetch_by_type.js"></script>
     <script src="assets/js/js/fetch_by_zip.js"></script>
+    <script src="assets/js/js/fetch.js"></script>
     <script src="assets/js/js/listener.js"></script>
 </body>
 

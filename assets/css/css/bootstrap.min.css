@@ -9621,3 +9621,9 @@ a.text-dark:focus, a.text-dark:hover {
 #resultsTable {
 }
 
+@media (max-width: 350px) {
+  #expandedSection {
+    height: 1800px;
+  }
+}
+

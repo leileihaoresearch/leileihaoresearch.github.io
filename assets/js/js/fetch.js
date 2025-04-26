@@ -1,7 +1,9 @@
-function fetchByZip() {
+function fetch() {
     const zip = inputZip.value;
+    const type = inputType.value;
     const radius = distanceSlider.value;
-    if (!/^\d{5}$/.test(zip)) {
+    
+    if (zip && !/^\d{5}$/.test(zip)) {
         expandedSection.style.display = 'block';
         resultsTable.innerHTML = '<tr><td colspan="99">Please enter a valid 5-digit ZIP code.</td></tr>';
         return;
@@ -9,8 +11,8 @@ function fetchByZip() {
     
     // AJAX request to PHP
     var xhr = new XMLHttpRequest();
-    console.log('URL:', `php/find_by_zip.php?zipcode=${zip}&radius=${radius}`);
-    xhr.open('GET', `php/find_by_zip.php?zipcode=${zip}&radius=${radius}`, true);
+    console.log('URL:', `php/find.php?radius=${radius}&zipcode=${zip}&type=${type}`);
+    xhr.open('GET', `php/find.php?radius=${radius}&zipcode=${zip}&type=${type}`, true);
 
     xhr.onload = function() {
         if (this.status == 200) {
@@ -18,7 +20,7 @@ function fetchByZip() {
             const data = JSON.parse(this.responseText);
             if (data.error) {
                 expandedSection.style.display = 'block';
-                resultTable.innerHTML = '<tr><td colspan="99">${data.error}</td></tr>';
+                resultsTable.innerHTML = '<tr><td colspan="99">${data.error}</td></tr>';
             } else {
                 displayResults(data);
             }
